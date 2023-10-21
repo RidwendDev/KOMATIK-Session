@@ -1,0 +1,1617 @@
+id,Tanggal,No. eRM,No. RM Lama,No. Dokumen RM,Jenis Kelamin,Alamat,RT,RW,Pekerjaan,Tanggal Pemeriksaan,Kelurahan,Tempat Lahir,Tgl.Lahir,Umur Tahun,Umur Bulan,Umur Hari,Nama Ayah,Nama Ibu,Jenis Kunjungan,Poli/Ruangan,Asuransi,No. Asuransi,Dokter / Tenaga Medis,Perawat / Bidan / Nutrisionist / Sanitarian,Keluhan Utama,Keluhan Tambahan,Lama Sakit,Merokok,Konsumsi Alkohol,Kurang Sayur/Buah,Terapi,Keterangan,RPS,RPD,RPK,Alergi,Kesadaran,Triage,Tinggi,Berat Badan,Lingkar Perut,Sistole,Diastole,Nafas,Detak Nadi,Detak Jantung,Suhu,Aktifitas Fisik,Diagnosa 1,Jenis Kasus 1,Diagnosa 2,Jenis Kasus 2,Diagnosa 3,Jenis Kasus 3,Diagnosa 4,Jenis Kasus 4,Diagnosa 5,Jenis Kasus 5,Tindakan,Resep,Apoteker,Pendaftaran/Rujukan Internal,Lama Antrean,Lama Pemeriksaan,Lama Pelayanan Obat,Petugas Pendaftaran
+933,2022-02-16 10:12:31,13642,P351608018002703,000339,P,,,,BELUM/TIDAK BEKERJA,2022-02-16 11:30:55,PEKUKUHAN,MOJOKERTO,1968-06-01,53 Tahun,8 Bulan,15 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,725409628.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Batuk, Pilek, Greges, Demam,",,2 Hari,Tidak,Tidak,Tidak,,,,,,,COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Acute nasopharyngitis [common cold] (J00),LAMA,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x11/2
+  Jumlah : 30
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 2x1
+  Jumlah : 30
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 20
+  Racikan : R1
+
+- DEMACOLIN TABLET
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Gliseril Gualakolat tablet 100 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 1 jam 18 menit,0 hari 0 jam 1 menit,0 hari 2 jam 24 menit,puskesmas.modopuro
+934,2022-02-16 10:32:35,622943,,012402,P,,,,,2022-02-16 10:49:40,MODOPURO,,1984-11-27,37 Tahun,2 Bulan,20 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,724952777.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Chronic kidney disease (N18),BARU,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,,,,,,,,,,Pendaftaran,0 hari 0 jam 17 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+935,2022-02-17 00:00:00,358786,,,P,,,,,2022-02-17 20:57:17,NGIMBANGAN,,1967-07-20,54 Tahun,6 Bulan,29 Hari,,,LAMA,Layanan Poskesdes,BPJS Kesehatan,725694232.0,DR. NAILUL MAGHFIROH,,SERING BAK LEMES MUAL,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,148 cm,45 kg,,100 mm,60 Hg,18 /menit,80 /menit,REGULAR,,,Insulin-dependent diabetes mellitus (E10),BARU,,,,,,,,,,,,Pendaftaran,0 hari 20 jam 57 menit,0 hari 0 jam 36 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+936,2022-02-17 08:08:59,653614,,012602,P,,,,,2022-02-17 10:51:35,NGIMBANGAN,,1974-03-01,47 Tahun,11 Bulan,19 Hari,,,BARU,POLI UMUM,Umum,,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Batuk, Dada Kadang Sakit, Demam,",,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,"Respiratory tuberculosis, not confirmed bacteriologically or histologically (A16)",BARU,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 2x1
+  Jumlah : 6
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 2x1
+  Jumlah : 6
+  Racikan : R1
+
+- Gliseril Gualakolat tablet 100 mg
+  Signa : 3x1
+  Jumlah : 6
+  Racikan : R1
+
+- Vitamin B Kompleks tablet
+  Signa : 1x1
+  Jumlah : 5
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 2 jam 42 menit,0 hari 0 jam 1 menit,0 hari 0 jam 37 menit,puskesmas.modopuro
+937,2022-02-17 08:10:29,179475,,009794,L,,,,,2022-02-17 08:29:37,KEDUNGGEMPOL,,1964-02-11,58 Tahun,0 Bulan,6 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,724083232.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Mata Kiri Tidak Kelihatan, Demam,",,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,120 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 19 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+938,2022-02-17 09:02:12,12504,P351608018000666,000762,P,,,,WIRASWASTA,2022-02-17 11:09:00,MODOPURO,MOJOKERTO,1960-12-12,61 Tahun,2 Bulan,5 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,1294411307.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Pusing,badan Sakit Semua",,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,129 mm,83 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,Myalgia (M79.1),BARU,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Natrium Diklofenak tab 50 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 2 jam 6 menit,0 hari 0 jam 0 menit,0 hari 0 jam 54 menit,puskesmas.modopuro
+939,2022-02-17 10:18:25,13331,P351608018002299,007458,P,,,,BELUM/TIDAK BEKERJA,2022-02-17 10:29:59,LEMINGGIR,MOJOKERTO,1957-09-01,64 Tahun,5 Bulan,16 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,1892229142.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,4 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Hypertensive heart disease (I11),BARU,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,,,,,,,,,,Pendaftaran,0 hari 0 jam 11 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+940,2022-02-18 07:54:01,13157,P351608018002051,002100,P,,,,BELUM/TIDAK BEKERJA,2022-02-18 11:58:37,PEKUKUHAN,MOJOKERTO,1948-06-08,73 Tahun,8 Bulan,10 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,726450557.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,147 cm,44 kg,64 cm,156 mm,64 Hg,12 /menit,60 /menit,REGULAR,,,Essential (primary) hypertension (I10),BARU,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 2x1
+  Jumlah : 60
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R2
+
+- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R3
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R3
+
+- Allopurinol tablet 100 mg
+  Signa : 1x1
+  Jumlah : 5
+  Racikan : R3",Siti Asia,Pendaftaran,0 hari 4 jam 4 menit,0 hari 0 jam 5 menit,0 hari 20 jam 33 menit,puskesmas.modopuro
+941,2022-02-18 08:01:08,492187,,011641,P,,,,,2022-02-18 11:50:13,KEBONDALEM,,1965-08-17,56 Tahun,6 Bulan,1 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,786872654.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Batuk,pilek,mulut Terasa Pahit.",,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,150 cm,46 kg,64 cm,130 mm,90 Hg,12 /menit,60 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,Gastritis and duodenitis (K29),BARU,Acute nasopharyngitis [common cold] (J00),BARU,,,,,,"- Glimepirid tab 2 mg
+  Signa : 2x1
+  Jumlah : 60
+  Racikan : R1
+
+- Klorfeniramina maleat (CTM) tablet 4 mg
+  Signa : 2x1
+  Jumlah : 6
+  Racikan : R2
+
+- Gliseril Gualakolat tablet 100 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R3
+
+- Antasida DOEN II Suspensi, kombinasi :Aluminium Hidroksida 200 mg/5ml + Magnesium Hidroksida 200 mg/5ml
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R4
+
+- Metformin HCl tablet 500 mg
+  Signa : 3x1
+  Jumlah : 60
+  Racikan : R4",Siti Asia,Pendaftaran,0 hari 3 jam 49 menit,0 hari 0 jam 2 menit,0 hari 20 jam 35 menit,puskesmas.modopuro
+942,2022-02-18 09:00:53,13598,P351608018002650,002202,P,,,,BELUM/TIDAK BEKERJA,2022-02-18 10:33:34,PEKUKUHAN,MOJOKERTO,1971-10-08,50 Tahun,4 Bulan,10 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2479916261.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,139 mm,90 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,Mixed hyperlipidaemia (E78.2),BARU,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 2x1
+  Jumlah : 60
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Simvastatin 10 mg
+  Signa : 1x1
+  Jumlah : 4
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Kaptopril tablet 25 mg
+  Signa : 2x1/2
+  Jumlah : 30
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 1 jam 32 menit,0 hari 0 jam 3 menit,0 hari 0 jam 28 menit,puskesmas.modopuro
+943,2022-02-18 09:18:21,506292,,004523,L,,,,,2022-02-18 10:48:22,JOTANGAN,MOJOKERTO,1972-07-02,49 Tahun,7 Bulan,16 Hari,,,LAMA,POLI UMUM,Umum,,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,3 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,120 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 1 jam 30 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+944,2022-02-18 09:34:19,563799,,011960,P,,,,,2022-02-18 10:36:03,MODOPURO,,1936-05-22,85 Tahun,8 Bulan,27 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,725618632.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Tidak Bisa Tidur, Perut Terasa Penuh, Nyeri Perut,",,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,"Gastritis, unspecified (K29.7)",LAMA,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 2x1
+  Jumlah : 60
+  Racikan : R1
+
+- Ranitidin tab 150 mg
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- DEMACOLIN TABLET
+  Signa : 1x1
+  Jumlah : 6
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 1 jam 1 menit,0 hari 0 jam 2 menit,0 hari 0 jam 29 menit,puskesmas.modopuro
+945,2022-02-18 09:46:36,616006,,002644,P,,,,,2022-02-18 10:52:51,KEBONDALEM,,1969-12-11,52 Tahun,2 Bulan,7 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,3086049609.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 1 jam 6 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+946,2022-02-19 00:00:00,415019,,,P,,,,,2022-02-19 19:58:29,,,1960-03-16,61 Tahun,11 Bulan,4 Hari,,,LAMA,Layanan Poskesdes,BPJS Kesehatan,2685101027.0,DR. NAILUL MAGHFIROH,,SERING BAK PD MLM HARI,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,150 cm,50 kg,,120 mm,70 Hg,18 /menit,88 /menit,REGULAR,,,Insulin-dependent diabetes mellitus (E10),BARU,,,,,,,,,,,,Pendaftaran,0 hari 19 jam 58 menit,0 hari 0 jam 21 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+947,2022-02-19 07:47:49,14923,P351608018101266,000885,L,,,,BELUM/TIDAK BEKERJA,2022-02-19 10:32:38,MENANGGAL,SURABAYA,1952-12-21,69 Tahun,1 Bulan,29 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,98552755.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Batuk, Pilek, Demam,",,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,90 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,Essential (primary) hypertension (I10),BARU,Acute nasopharyngitis [common cold] (J00),BARU,,,,,,"- Paracetamol tablet 500 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Bromheksin 8 mg Tablet
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 2 jam 44 menit,0 hari 0 jam 0 menit,0 hari 1 jam 40 menit,puskesmas.modopuro
+948,2022-02-19 07:58:12,513195,,07107,L,,,,,2022-02-19 08:52:59,RANDUBANGO,,1954-12-31,67 Tahun,1 Bulan,19 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,2451433814.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 54 menit,0 hari 0 jam 12 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+949,2022-02-19 08:05:56,13000,P351608018001820,001868,P,,,,BELUM/TIDAK BEKERJA,2022-02-19 08:50:56,MODOPURO,MOJOKERTO,1969-12-01,52 Tahun,2 Bulan,19 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,724937848.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Greges,,3 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,159 cm,56 kg,,128 mm,84 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,Acute nasopharyngitis [common cold] (J00),LAMA,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Ibuprofen tablet 200 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Vitamin B Kompleks tablet
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Asam Askorbat (vitamin C) tablet 50 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 45 menit,0 hari 0 jam 0 menit,0 hari 0 jam 41 menit,puskesmas.modopuro
+950,2022-02-19 10:59:20,390659,,000874,L,,,,,2022-02-19 11:03:41,MODOPURO,,1955-12-31,66 Tahun,1 Bulan,19 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1284837917.0,DR. NAILUL MAGHFIROH,"Noviliyah, Amd.Kep",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Allopurinol tablet 100 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Natrium Diklofenak tab 50 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Bromheksin 8 mg Tablet
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 4 menit,0 hari 0 jam 1 menit,1 hari 21 jam 12 menit,puskesmas.modopuro
+951,2022-02-19 11:12:31,495248,,011102,L,,,,,2022-02-19 11:29:38,JOTANGAN,,1947-07-09,74 Tahun,7 Bulan,10 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,98837289.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,159 cm,60 kg,,160 mm,90 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),LAMA,"Secondary hypertension, unspecified (I15.9)",LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 17 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+952,2022-02-21 08:06:46,503348,,011721,P,,,,,2022-02-21 08:57:39,KEBONDALEM,MOJOKERTO,1975-09-01,46 Tahun,5 Bulan,20 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1043695539.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Pusing Dan Bingung,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,148 mm,97 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,"- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Paracetamol tablet 500 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 2x1
+  Jumlah : 2
+  Racikan : R1
+
+- Bromheksin 8 mg Tablet
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 50 menit,0 hari 0 jam 0 menit,0 hari 0 jam 21 menit,puskesmas.modopuro
+953,2022-02-21 08:15:26,135368,,009207,P,,,,,2022-02-21 11:18:03,MENANGGAL,,1970-05-10,51 Tahun,9 Bulan,11 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,724988665.0,DR. NAILUL MAGHFIROH,RUKIYAH,"Batuk, Pilek, Greges, Demam,",,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,108 mm,86 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,Acute nasopharyngitis [common cold] (J00),BARU,,,,,,,,"- Metformin HCl tablet 500 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 2x1
+  Jumlah : 60
+  Racikan : R1
+
+- Grantusif
+  Signa : 3x1
+  Jumlah : 6
+  Racikan : R1
+
+- Paracetamol tablet 500 mg
+  Signa : 3x1
+  Jumlah : 6
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 3 jam 2 menit,0 hari 0 jam 0 menit,0 hari 1 jam 43 menit,puskesmas.modopuro
+954,2022-02-21 08:57:50,14787,P351608018101040,002090,L,,,,PEGAWAI NEGERI SIPIL (PNS),2022-02-21 09:05:22,PEKUKUHAN,MOJOKERTO,1958-09-10,63 Tahun,5 Bulan,11 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,99340931.0,DR. NAILUL MAGHFIROH,RUKIYAH,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,159 cm,63 kg,,140 mm,80 Hg,18 /menit,76 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,Other acute ischaemic heart diseases (I24),LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 7 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+955,2022-02-21 09:39:36,655177,,012618,P,,,,,2022-02-21 09:41:18,KEBONDALEM,,1962-03-10,59 Tahun,11 Bulan,11 Hari,,,BARU,POLI UMUM,BPJS Kesehatan,110204346.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,,COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,"Secondary hypertension, unspecified (I15.9)",BARU,Congestive heart failure (I50.0),BARU,,,,,,,,Pendaftaran,0 hari 0 jam 1 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+956,2022-02-21 10:00:59,132554,,009147,L,,,,,2022-02-21 10:21:41,LEMINGGIR,,1952-06-01,69 Tahun,8 Bulan,20 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,724762934.0,DR. NAILUL MAGHFIROH,RUKIYAH,Batuk,,6 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,120 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,"Respiratory tuberculosis, bacteriologically and histologically confirmed (A15)",LAMA,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Gliseril Gualakolat tablet 100 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Klorfeniramina maleat (CTM) tablet 4 mg
+  Signa : 2x1
+  Jumlah : 6
+  Racikan : R1
+
+- Paracetamol tablet 500 mg
+  Signa : 3x1
+  Jumlah : 6
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 20 menit,0 hari 0 jam 0 menit,0 hari 1 jam 17 menit,puskesmas.modopuro
+957,2022-02-21 10:10:32,477743,,001309,P,,,,,2022-02-21 11:54:26,MODOPURO,,1945-12-31,76 Tahun,1 Bulan,21 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2694906167.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,120 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Natrium Diklofenak tab 50 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 1 jam 43 menit,0 hari 0 jam 0 menit,0 hari 1 jam 45 menit,puskesmas.modopuro
+958,2022-02-21 13:00:59,336209,,012692,P,,,,,2022-02-21 13:01:43,KEDUNGGEMPOL,,1963-05-12,58 Tahun,9 Bulan,9 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2415521261.0,DR. NAILUL MAGHFIROH,"Deni Kriswanto, Amd.Kep",PO OP GANGREN,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,155 cm,55 kg,,120 mm,80 Hg,16 /menit,77 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+959,2022-02-22 08:40:09,12689,P351608018001184,000008,P,,,,KARYAWAN SWASTA,2022-02-22 08:59:52,MODOPURO,MOJOKERTO,1974-04-21,47 Tahun,10 Bulan,1 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2212819727.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol Rutin,,0 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,155 cm,50 kg,,110 mm,80 Hg,20 /menit,80 /menit,REGULAR,,,Other cardiac arrhythmias (I49),BARU,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,,,,,,,,,,Pendaftaran,0 hari 0 jam 19 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+960,2022-02-22 09:13:10,12938,P351608018001724,004191,P,,,,BELUM/TIDAK BEKERJA,2022-02-22 09:38:31,PEKUKUHAN,MOJOKERTO,1960-10-01,61 Tahun,4 Bulan,22 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,725591283.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",KONTROL RUTIN,,0 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,157 cm,50 kg,,130 mm,80 Hg,20 /menit,80 /menit,REGULAR,,,Chronic kidney disease (N18),BARU,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,,,,,,,,,,Pendaftaran,0 hari 0 jam 25 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+961,2022-02-22 09:39:28,356126,,012629,P,,,,,2022-02-22 09:58:18,NGIMBANGAN,,1964-04-08,57 Tahun,10 Bulan,14 Hari,,,BARU,POLI UMUM,BPJS Kesehatan,2415529034.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",KONTRO RUTIN,,3 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,150 cm,45 kg,,110 mm,80 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 18 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+962,2022-02-23 07:53:47,299612,,001891,L,,,,,2022-02-23 08:56:03,MODOPURO,,1958-04-09,63 Tahun,10 Bulan,14 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,725457238.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Batuk,dahak",,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,120 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,Acute nasopharyngitis [common cold] (J00),BARU,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1/2
+  Jumlah : 15
+  Racikan : R1
+
+- Kodein tablet 10 mg
+  Signa : 2x1/2
+  Jumlah : 8
+  Racikan : R1
+
+- Vitamin B Kompleks tablet
+  Signa : 1x1
+  Jumlah : 5
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 1 jam 2 menit,0 hari 0 jam 1 menit,0 hari 1 jam 7 menit,puskesmas.modopuro
+963,2022-02-23 09:05:20,643241,,012536,P,,,,,2022-02-23 09:21:57,NGIMBANGAN,,1963-06-05,58 Tahun,8 Bulan,18 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2317598065.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Periksa Gula Darah,,2 Hari,Tidak,Tidak,Tidak,,,,,,,COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,Senile cataract (H25),BARU,Varicose veins of lower extremities with ulcer (I83.0),BARU,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Paracetamol tablet 500 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 16 menit,0 hari 0 jam 17 menit,0 hari 0 jam 41 menit,puskesmas.modopuro
+964,2022-02-23 10:04:15,14668,P351608018100866,000071,L,,,,WIRASWASTA,2022-02-23 10:36:23,KEBONDALEM,MOJOKERTO,1978-11-17,43 Tahun,3 Bulan,6 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2415520416.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,159 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,"Viral infection, unspecified (B34.9)",BARU,,,,,,,,"- DEMACOLIN TABLET
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Asam Askorbat (vitamin C) tablet 50 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 32 menit,0 hari 0 jam 0 menit,0 hari 0 jam 37 menit,puskesmas.modopuro
+965,2022-02-24 08:25:21,493816,,008905,L,,,,,2022-02-24 09:00:34,MODOPURO,,1970-10-01,51 Tahun,4 Bulan,24 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,725546114.0,DR. NAILUL MAGHFIROH,,NYERI TELAPAK,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,160 cm,60 kg,,120 mm,80 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),BARU,,,,,,,,,,"- Metformin HCl tablet 500 mg
+  Signa : 2x1
+  Jumlah : 60
+  Racikan : 
+
+- Asam Asetisalisilat tablet 100 mg (Asetosal)
+  Signa : 1x1
+  Jumlah : 5
+  Racikan :",Siti Asia,Pendaftaran,0 hari 0 jam 35 menit,0 hari 0 jam 2 menit,0 hari 1 jam 28 menit,puskesmas.modopuro
+966,2022-02-24 10:08:05,14923,P351608018101266,000885,L,,,,BELUM/TIDAK BEKERJA,2022-02-24 10:28:13,MENANGGAL,SURABAYA,1952-12-21,69 Tahun,2 Bulan,3 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,98552755.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,140 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Other acute ischaemic heart diseases (I24),LAMA,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,,,,,,,,,,Pendaftaran,0 hari 0 jam 20 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+967,2022-02-25 07:36:25,380931,,005001,P,,,,,2022-02-25 17:28:33,KEDUNGGEMPOL,,1967-10-01,54 Tahun,4 Bulan,25 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,725315422.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Badan Sakit Semua,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,Gastritis and duodenitis (K29),BARU,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 60
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Ibuprofen tablet 400 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 9 jam 52 menit,0 hari 0 jam 0 menit,0 hari 4 jam 50 menit,puskesmas.modopuro
+968,2022-02-25 07:53:39,109849,,008761,P,,,,,2022-02-25 08:25:00,NGIMBANGAN,,1961-09-01,60 Tahun,5 Bulan,24 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,725500102.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),BARU,Gangrene and necrosis of lung (J85.0),BARU,,,,,,,,,,Pendaftaran,0 hari 0 jam 31 menit,0 hari 0 jam 2 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+969,2022-02-26 07:31:01,13548,P351608018002578,000524,P,,,,BELUM/TIDAK BEKERJA,2022-02-26 08:56:48,RANDUBANGO,MOJOKERTO,1969-07-29,52 Tahun,6 Bulan,28 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2441210387.0,DR. NAILUL MAGHFIROH,,"Batuk, Pilek, Panas, Demam Mulai Kemarin",,0 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,153 cm,67 kg,,130 mm,90 Hg,20 /menit,88 /menit,REGULAR,,,Acute nasopharyngitis [common cold] (J00),BARU,Essential (primary) hypertension (I10),BARU,Insulin-dependent diabetes mellitus (E10),BARU,,,,,,"- Grantusif
+  Signa : 3x1
+  Jumlah : 6
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 2x1
+  Jumlah : 60
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 2x1
+  Jumlah : 30
+  Racikan : R1
+
+- Amoksisilin kaplet 500 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- DEMACOLIN TABLET
+  Signa : 3x1
+  Jumlah : 6
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 1 jam 25 menit,0 hari 0 jam 5 menit,0 hari 1 jam 37 menit,puskesmas.modopuro
+970,2022-02-26 08:32:07,417773,,012234,P,Pekukuhan,,,,2022-02-26 09:30:42,PEKUKUHAN,,1965-02-22,57 Tahun,0 Bulan,4 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2729436491.0,DR. NAILUL MAGHFIROH,,"Pusing, Batuk, Pilek, Gereges ,ulai Kemarin",,0 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,150 cm,67 kg,,120 mm,70 Hg,20 /menit,88 /menit,REGULAR,,,Acute nasopharyngitis [common cold] (J00),BARU,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,"- Klorfeniramina maleat (CTM) tablet 4 mg
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1
+
+- Dimenhdrinat tablet 50 mg
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 2x1
+  Jumlah : 60
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 2x1
+  Jumlah : 30
+  Racikan : R1
+
+- Ibuprofen tablet 400 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 58 menit,0 hari 0 jam 0 menit,0 hari 2 jam 20 menit,puskesmas.modopuro
+971,2022-02-26 08:41:07,336088,,011916,P,,,,,2022-02-26 09:10:51,KEBONDALEM,,1961-05-01,60 Tahun,9 Bulan,26 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,723553582.0,DR. NAILUL MAGHFIROH,,Perut Kembung Kurang Lebih 3hr,,0 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,150 cm,67 kg,,120 mm,70 Hg,20 /menit,88 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,"Fatty (change of) liver, not elsewhere classified (K76.0)",BARU,,,,,,,,,,Pendaftaran,0 hari 0 jam 29 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+972,2022-02-26 10:45:48,342547,,009001,P,,,,,2022-02-26 11:09:52,MODOPURO,MOJOKERTO,1963-12-31,58 Tahun,1 Bulan,26 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2415524782.0,DR. NAILUL MAGHFIROH,,Kontrol,,0 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,150 cm,56 kg,,110 mm,70 Hg,20 /menit,88 /menit,REGULAR,,,Secondary hypertension (I15),BARU,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),BARU,,,,,,,,,,Pendaftaran,0 hari 0 jam 24 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+973,2022-03-01 00:00:00,511208,,011773,P,,,,,2022-03-01 20:04:32,NGIMBANGAN,,1962-06-15,59 Tahun,8 Bulan,16 Hari,,,LAMA,Layanan Poskesdes,BPJS Kesehatan,724809846.0,DR. NAILUL MAGHFIROH,,BAK SERING LEMES,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,155 cm,56 kg,,120 mm,70 Hg,18 /menit,80 /menit,REGULAR,,,Insulin-dependent diabetes mellitus with coma (E10.0),BARU,,,,,,,,,,,,Pendaftaran,0 hari 20 jam 4 menit,0 hari 0 jam 42 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+974,2022-03-01 08:13:13,128784,,12224,P,KEBONDALEM,25.0,6.0,WIRASWASTA,2022-03-01 08:34:29,KEBONDALEM,MOJOKERTO,1968-06-22,53 Tahun,8 Bulan,7 Hari,,,LAMA,POLI UMUM,Gratis,2433842289.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 21 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+975,2022-03-01 08:42:42,160957,,009526,P,,,,,2022-03-01 09:06:56,MODOPURO,,1971-04-21,50 Tahun,10 Bulan,8 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2094560381.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol Ambil Obat,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,140 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 24 menit,0 hari 0 jam 1 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+976,2022-03-01 08:51:16,643172,,012534,P,,,,,2022-03-01 11:16:57,,,1957-05-09,64 Tahun,9 Bulan,20 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,1895796674.0,DR. NAILUL MAGHFIROH,RUKIYAH,Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,140 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Hypertensive heart disease without (congestive) heart failure (I11.9),LAMA,Congestive heart failure (I50.0),LAMA,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,Pendaftaran,0 hari 2 jam 25 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+977,2022-03-01 09:00:48,12938,P351608018001724,004191,P,,,,BELUM/TIDAK BEKERJA,2022-03-01 09:41:26,PEKUKUHAN,MOJOKERTO,1960-10-01,61 Tahun,4 Bulan,29 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,725591283.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Chronic kidney disease (N18),LAMA,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 40 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+978,2022-03-01 09:01:54,338803,,010760,L,,,,,2022-03-01 09:42:50,KEBONDALEM,,1958-03-13,63 Tahun,11 Bulan,16 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,2696156695.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,"Cerebral infarction, unspecified (I63.9)",BARU,,,,,,,,,,Pendaftaran,0 hari 0 jam 40 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+979,2022-03-01 09:36:07,12726,P351608018001292,000605,P,,,,MENGURUS RUMAH TANGGA,2022-03-01 10:28:53,MODOPURO,MOJOKERTO,1961-06-11,60 Tahun,8 Bulan,18 Hari,,,LAMA,POLI UMUM,Umum,,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Pusing,,2 Hari,Tidak,Tidak,Tidak,,,,,,,COMPOS MENTIS,TIDAK GAWAT DARURAT,148 cm,46 kg,,164 mm,85 Hg,18 /menit,80 /menit,REGULAR,,,Essential (primary) hypertension (I10),LAMA,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,"- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 6
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 52 menit,0 hari 0 jam 0 menit,0 hari 1 jam 3 menit,puskesmas.modopuro
+980,2022-03-01 09:40:27,13080,P351608018001928,002583,P,,,,BELUM/TIDAK BEKERJA,2022-03-01 09:44:15,KEDUNGGEMPOL,MOJOKERTO,1965-12-31,56 Tahun,1 Bulan,29 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,725684872.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Insulin-dependent diabetes mellitus with ketoacidosis (E10.1),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 3 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+981,2022-03-01 10:00:05,336103,,011583,P,,,,,2022-03-01 10:14:17,KEBONDALEM,,1972-04-01,49 Tahun,10 Bulan,28 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,725057291.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 14 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+982,2022-03-02 07:46:37,16092,P351609018100241,000293,L,,,,PEGAWAI NEGERI SIPIL (PNS),2022-03-02 08:00:46,MEJOYO,MOJOKERTO,1961-06-10,60 Tahun,8 Bulan,20 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,158049718.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 14 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+983,2022-03-02 07:59:12,14124,P351608018003426,000626,P,,,,BELUM/TIDAK BEKERJA,2022-03-02 08:20:17,RANDUBANGO,MOJOKERTO,1957-11-27,64 Tahun,3 Bulan,3 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,98837504.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Badan Sakit Semua,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Vitamin B Kompleks tablet
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 21 menit,0 hari 0 jam 1 menit,0 hari 0 jam 26 menit,puskesmas.modopuro
+984,2022-03-02 08:02:59,13130,P351608018002008,000406,P,,,,BELUM/TIDAK BEKERJA,2022-03-02 08:24:52,JOTANGAN,MOJOKERTO,1952-01-01,70 Tahun,1 Bulan,29 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,1342203625.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,140 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Asam Mefenamat tablet salut selaput 500 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Amoksisilin kaplet 500 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Asam Askorbat (vitamin C) tablet 50 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 21 menit,0 hari 0 jam 1 menit,0 hari 0 jam 25 menit,puskesmas.modopuro
+985,2022-03-02 08:13:24,13405,P351608018002393,000492,P,,,,BELUM/TIDAK BEKERJA,2022-03-02 08:33:29,MODOPURO,MOJOKERTO,1969-02-06,53 Tahun,0 Bulan,24 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,98533517.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,Secondary hypertension (I15),LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 20 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+986,2022-03-02 08:28:07,356535,,011189,L,,,,,2022-03-02 08:54:50,KEDUNGGEMPOL,,1968-11-01,53 Tahun,3 Bulan,29 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,724097395.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Greges,batuk Pilek",,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,,,"- Amoksisilin kaplet 500 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : 
+
+- Paracetamol tablet 500 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : 
+
+- Klorfeniramina maleat (CTM) tablet 4 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : 
+
+- Vitamin B Kompleks tablet
+  Signa : 3x1
+  Jumlah : 10
+  Racikan :",Siti Asia,Pendaftaran,0 hari 0 jam 26 menit,0 hari 0 jam 1 menit,0 hari 0 jam 12 menit,puskesmas.modopuro
+987,2022-03-02 09:04:56,326708,,004979,L,,,,,2022-03-02 10:57:43,LEMINGGIR,,1957-03-01,65 Tahun,0 Bulan,1 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,724779775.0,DR. NAILUL MAGHFIROH,RUKIYAH,Kontrol,,0 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,120 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,"Respiratory tuberculosis, not confirmed bacteriologically or histologically (A16)",BARU,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,"- Gliseril Gualakolat tablet 100 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Asam Askorbat (vitamin C) tablet 50 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Klorfeniramina maleat (CTM) tablet 4 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 1 jam 52 menit,0 hari 0 jam 1 menit,0 hari 0 jam 10 menit,puskesmas.modopuro
+988,2022-03-02 09:17:16,185889,,006606,L,,,,,2022-03-02 09:29:04,PEKUKUHAN,,1966-03-16,55 Tahun,11 Bulan,14 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,110205393.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,Schizophrenia (F20),LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 11 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+989,2022-03-02 09:34:06,14880,P351608018101200,000123,L,,,,WIRASWASTA,2022-03-02 09:42:44,KEBONDALEM,MOJOKERTO,1976-10-18,45 Tahun,4 Bulan,12 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1270482658.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",KONTROL,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,140 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 8 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+990,2022-03-02 09:35:33,279403,,005027,P,,,,,2022-03-02 09:44:44,JOTANGAN,,1972-06-01,49 Tahun,8 Bulan,29 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,724471176.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Hypertensive heart disease (I11),LAMA,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 9 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+991,2022-03-04 08:40:58,354297,,001758,P,,,,,2022-03-04 08:47:11,MENANGGAL,,1956-12-31,65 Tahun,2 Bulan,1 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,724098475.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol Habis MRS,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,76 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,Melaena (K92.1),BARU,,,,,,,,,,Pendaftaran,0 hari 0 jam 6 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+992,2022-03-04 09:26:59,521210,,0011832,P,,,,,2022-03-04 09:32:50,JOTANGAN,,1965-12-04,56 Tahun,3 Bulan,0 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2878642708.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,140 mm,80 Hg,18 /menit,88 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,Cardiomegaly (I51.7),LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 5 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+993,2022-03-04 09:43:42,412084,,010997 A,P,,,,,2022-03-04 09:56:18,JOTANGAN,,1967-04-12,54 Tahun,10 Bulan,20 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,724459871.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 12 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+994,2022-03-04 10:14:19,13473,P351608018002472,000413,P,,,,BELUM/TIDAK BEKERJA,2022-03-04 10:22:27,LEMINGGIR,MOJOKERTO,1969-11-25,52 Tahun,3 Bulan,7 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1443061089.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Other acute ischaemic heart diseases (I24),LAMA,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 8 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+995,2022-03-04 10:21:15,261717,,000728,L,,,,,2022-03-04 10:32:10,MODOPURO,,1963-02-12,59 Tahun,0 Bulan,20 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1850074828.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 10 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+996,2022-03-04 10:28:40,561986,,009787,P,,,,,2022-03-04 10:34:55,MENANGGAL,,1969-04-02,52 Tahun,11 Bulan,2 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,3002837692.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 6 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+997,2022-03-04 10:34:21,13949,P351608018003146,003814,P,,,,BELUM/TIDAK BEKERJA,2022-03-04 10:47:00,MENANGGAL,MOJOKERTO,1997-01-01,25 Tahun,2 Bulan,0 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,724088632.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Perut Bagian Bawah Sakit, Demam,",,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,114 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),BARU,,,,,,,,,,"- Ibuprofen tablet 400 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 12 menit,0 hari 0 jam 0 menit,0 hari 0 jam 5 menit,puskesmas.modopuro
+998,2022-03-04 10:38:48,12435,P351608018000475,000542,P,,,,WIRASWASTA,2022-03-04 11:04:31,MODOPURO,MALANG,1957-12-31,64 Tahun,2 Bulan,1 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,723961809.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Habis Jatuh,kaki Bengkak",,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,147 mm,89 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,Myalgia (M79.1),BARU,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1/2
+  Jumlah : 15
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Ibuprofen tablet 400 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 25 menit,0 hari 0 jam 0 menit,0 hari 19 jam 59 menit,puskesmas.modopuro
+999,2022-03-05 08:49:21,12820,P351608018001523,002785,P,,,,MENGURUS RUMAH TANGGA,2022-03-05 08:51:26,MODOPURO,MOJOKERTO,1936-12-31,85 Tahun,2 Bulan,2 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,1386698398.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,160 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,"Secondary hypertension, unspecified (I15.9)",LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 2 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1000,2022-03-05 10:00:32,181727,,009812,L,,,,,2022-03-05 11:17:48,PEKUKUHAN,,1968-04-14,53 Tahun,10 Bulan,19 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,724871889.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kram Pada Kaki,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,123 mm,96 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Kalsium Laktat (Kalk) tablet 500 mg
+  Signa : 1x1
+  Jumlah : 6
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 1 jam 17 menit,0 hari 0 jam 0 menit,0 hari 0 jam 27 menit,puskesmas.modopuro
+1001,2022-03-05 10:11:35,659517,,001720,L,,,,,2022-03-05 10:48:16,KEBONDALEM,,1974-05-02,47 Tahun,10 Bulan,3 Hari,,,BARU,POLI UMUM,Umum,,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Pundak Terasa Panas,,1 Hari,Tidak,Tidak,Tidak,,,,,,,COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,"Cutaneous abscess, furuncle and carbuncle (L02)",BARU,,,,,,,,"- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 6
+  Racikan : 
+
+- Amoksisilin kaplet 500 mg
+  Signa : 3x1
+  Jumlah : 6
+  Racikan : 
+
+- Asam Mefenamat tablet salut selaput 500 mg
+  Signa : 3x1
+  Jumlah : 6
+  Racikan : 
+
+- Klorfeniramina maleat (CTM) tablet 4 mg
+  Signa : 2x1
+  Jumlah : 6
+  Racikan : 
+
+- Glimepirid tab 2 mg
+  Signa : 2x1
+  Jumlah : 16
+  Racikan :",Siti Asia,Pendaftaran,0 hari 0 jam 36 menit,0 hari 0 jam 1 menit,0 hari 0 jam 50 menit,puskesmas.modopuro
+1002,2022-03-05 10:41:01,326776,,010711,P,,,,,2022-03-05 10:44:37,KEDUNGGEMPOL,,1971-04-25,50 Tahun,10 Bulan,8 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2924679598.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 3 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1003,2022-03-07 07:51:25,12504,P351608018000666,000762,P,,,,WIRASWASTA,2022-03-07 09:36:38,MODOPURO,MOJOKERTO,1960-12-12,61 Tahun,2 Bulan,23 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1294411307.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Ambil Obat,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,156 cm,55 kg,,114 mm,69 Hg,18 /menit,82 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Asam Mefenamat tablet salut selaput 500 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 1 jam 45 menit,0 hari 0 jam 0 menit,0 hari 0 jam 55 menit,puskesmas.modopuro
+1004,2022-03-07 07:57:55,356126,,012629,P,,,,,2022-03-07 10:50:21,NGIMBANGAN,,1964-04-08,57 Tahun,10 Bulan,27 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2415529034.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 2 jam 52 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1005,2022-03-07 08:02:26,229381,,009953,P,,,,,2022-03-07 10:41:03,LEMINGGIR,,1965-07-19,56 Tahun,7 Bulan,16 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2415521643.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Pusing,badan Sakit Semua",,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,159 cm,56 kg,,160 mm,90 Hg,18 /menit,88 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,"- Simvastatin 10 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Asam Mefenamat tablet salut selaput 500 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 2 jam 38 menit,0 hari 0 jam 0 menit,0 hari 0 jam 28 menit,puskesmas.modopuro
+1006,2022-03-07 08:31:51,110352,,008654,L,,,,,2022-03-07 09:19:13,MODOPURO,,1961-08-01,60 Tahun,7 Bulan,3 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,724963239.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,140 mm,100 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Klorfeniramina maleat (CTM) tablet 4 mg
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1
+
+- Siprofloksasin tablet 500 mg ( sebagai HCl )
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 47 menit,0 hari 0 jam 0 menit,0 hari 1 jam 2 menit,puskesmas.modopuro
+1007,2022-03-07 09:10:34,15609,P351608018103264,011243,L,,,,BELUM/TIDAK BEKERJA,2022-03-07 10:10:35,MENANGGAL,MOJOKERTO,1962-12-31,59 Tahun,2 Bulan,4 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2469903941.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kaki Terasa Kemeng,,2 Hari,Tidak,Tidak,Tidak,,,,,,,COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,220 mm,117 Hg,18 /menit,80 /menit,REGULAR,,,Essential (primary) hypertension (I10),LAMA,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x11/2
+  Jumlah : 30
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 2x1
+  Jumlah : 30
+  Racikan : R1
+
+- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 14
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 1 jam 0 menit,0 hari 0 jam 0 menit,0 hari 0 jam 27 menit,puskesmas.modopuro
+1008,2022-03-07 09:16:41,326708,,004979,L,,,,,2022-03-07 09:59:11,LEMINGGIR,,1957-03-01,65 Tahun,0 Bulan,6 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,724779775.0,DR. NAILUL MAGHFIROH,RUKIYAH,Batuk Tinggal Sedikit,,4 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,156 cm,54 kg,,140 mm,90 Hg,20 /menit,88 /menit,REGULAR,36 C,,"Respiratory tuberculosis, bacteriologically and histologically confirmed (A15)",BARU,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1-0-0
+  Jumlah : 30
+  Racikan : R1
+
+- DEMACOLIN TABLET
+  Signa : 3X1
+  Jumlah : 10
+  Racikan : R1
+
+- Asam Askorbat (vitamin C) tablet 50 mg
+  Signa : 3X1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 42 menit,0 hari 0 jam 3 menit,0 hari 0 jam 35 menit,puskesmas.modopuro
+1009,2022-03-07 09:33:16,109849,,008761,P,,,,,2022-03-07 10:07:17,NGIMBANGAN,,1961-09-01,60 Tahun,6 Bulan,3 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,725500102.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 34 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1010,2022-03-07 09:38:42,355639,,011761,P,,,,,2022-03-07 10:13:53,NGIMBANGAN,,1975-11-16,46 Tahun,3 Bulan,19 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1535341882.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Tangan Terasa Kebas,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,150 mm,90 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),BARU,Essential (primary) hypertension (I10),BARU,Disorders of lipoprotein metabolism and other lipidaemias (E78),BARU,,,,,,,,Pendaftaran,0 hari 0 jam 35 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1011,2022-03-07 10:40:46,143594,,002893,P,,,,,2022-03-07 10:43:30,PEKUKUHAN,,1962-08-12,59 Tahun,6 Bulan,23 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,98534057.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,120 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Chronic ischaemic heart disease (I25),LAMA,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 2 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1012,2022-03-07 11:17:44,179475,,009794,L,,,,,2022-03-07 11:19:49,KEDUNGGEMPOL,,1964-02-11,58 Tahun,0 Bulan,24 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,724083232.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 2 menit,0 hari 0 jam 9 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1013,2022-03-07 13:12:51,358786,,,P,,,,,2022-03-07 13:17:28,NGIMBANGAN,,1967-07-20,54 Tahun,7 Bulan,15 Hari,,,LAMA,Layanan Poskesdes,BPJS Kesehatan,725694232.0,DR. NAILUL MAGHFIROH,,SERING BAK PD MLM HARI,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,145 cm,43 kg,,110 mm,60 Hg,18 /menit,80 /menit,REGULAR,,,Insulin-dependent diabetes mellitus with coma (E10.0),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 4 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1014,2022-03-07 13:14:50,415019,,,P,,,,,2022-03-07 13:35:14,,,1960-03-16,61 Tahun,11 Bulan,19 Hari,,,LAMA,Layanan Poskesdes,BPJS Kesehatan,2685101027.0,DR. NAILUL MAGHFIROH,,SERING BAK PD MLM HR,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,150 cm,55 kg,,120 mm,70 Hg,18 /menit,80 /menit,REGULAR,,,Insulin-dependent diabetes mellitus with coma (E10.0),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 20 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1015,2022-03-08 09:37:24,109849,,008761,P,,,,,2022-03-08 11:03:32,NGIMBANGAN,,1961-09-01,60 Tahun,6 Bulan,4 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,725500102.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 1 jam 26 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1016,2022-03-08 10:10:15,15699,P351609018000037,000526,P,,,,PENSIUNAN,2022-03-08 10:27:43,MOJOTAMPING,MOJOKERTO,1954-09-10,67 Tahun,5 Bulan,26 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,99399453.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,0 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,155 cm,58 kg,80 cm,120 mm,70 Hg,16 /menit,80 /menit,REGULAR,36 C,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 17 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1017,2022-03-09 09:38:48,14668,P351608018100866,000071,L,,,,WIRASWASTA,2022-03-09 10:43:56,KEBONDALEM,MOJOKERTO,1978-11-17,43 Tahun,3 Bulan,20 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2415520416.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Batuk Masih Ada,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,Acute nasopharyngitis [common cold] (J00),LAMA,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Gliseril Gualakolat tablet 100 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Natrium Diklofenak tab 50 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 1 jam 5 menit,0 hari 0 jam 0 menit,0 hari 0 jam 36 menit,puskesmas.modopuro
+1018,2022-03-09 09:55:53,338803,,010760,L,,,,,2022-03-09 10:08:18,KEBONDALEM,,1958-03-13,63 Tahun,11 Bulan,24 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2696156695.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Follow-up examination after treatment of fracture (Z09.4),BARU,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,"Cerebral infarction, unspecified (I63.9)",LAMA,,,,,,,,Pendaftaran,0 hari 0 jam 12 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1019,2022-03-09 10:49:25,12976,P351608018001782,000470,P,,,,BELUM/TIDAK BEKERJA,2022-03-09 10:54:15,KEDUNGGEMPOL,MOJOKERTO,1971-04-29,50 Tahun,10 Bulan,8 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1787911097.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,"Secondary hypertension, unspecified (I15.9)",LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 4 menit,0 hari 0 jam 2 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1020,2022-03-10 00:00:00,13898,P351608018003070,007984,P,,,,BELUM/TIDAK BEKERJA,2022-03-10 19:17:40,NGIMBANGAN,MOJOKERTO,1941-03-01,81 Tahun,0 Bulan,10 Hari,,,LAMA,Layanan Poskesdes,BPJS Kesehatan,725343614.0,DR. NAILUL MAGHFIROH,,SERING BAK PD MLM HARI,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,150 cm,47 kg,,110 mm,60 Hg,18 /menit,88 /menit,REGULAR,,,Insulin-dependent diabetes mellitus with coma (E10.0),BARU,,,,,,,,,,,,Pendaftaran,0 hari 19 jam 17 menit,0 hari 0 jam 33 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1021,2022-03-10 08:33:28,15651,P351608018103358,001758,L,,,,BELUM/TIDAK BEKERJA,2022-03-10 08:46:16,MENANGGAL,MOJOKERTO,1954-12-31,67 Tahun,2 Bulan,7 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,724097283.0,DR. NAILUL MAGHFIROH,RUKIYAH,Kaki Kadang Kesemutan,,3 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,170 cm,52 kg,,117 mm,89 Hg,20 /menit,84 /menit,REGULAR,36 C,,Non-insulin-dependent diabetes mellitus with other specified complications (E11.6),BARU,,,,,,,,,,"- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 12 menit,0 hari 0 jam 1 menit,0 hari 2 jam 58 menit,puskesmas.modopuro
+1022,2022-03-10 08:58:37,356126,,012629,P,,,,,2022-03-10 09:21:06,NGIMBANGAN,,1964-04-08,57 Tahun,11 Bulan,2 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2415529034.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 22 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1023,2022-03-11 07:52:25,12628,P351608018001039,001609,P,,,,PENSIUNAN,2022-03-11 07:59:14,KEBONDALEM,MOJOKERTO,1946-06-17,75 Tahun,8 Bulan,22 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,98841576.0,DR. NAILUL MAGHFIROH,RUKIYAH,"Kaki Krenyeng-krenyeng, Gemetar",,4 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,155 cm,60 kg,,140 mm,80 Hg,20 /menit,84 /menit,REGULAR,36 C,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 6 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1024,2022-03-11 07:53:41,15307,P351608018102160,005786,L,,,,BELUM/TIDAK BEKERJA,2022-03-11 08:05:30,MODOPURO,MOJOKERTO,1983-03-24,38 Tahun,11 Bulan,15 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1852854377.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol Tiap Bulan,,0 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,167 cm,67 kg,80 cm,120 mm,70 Hg,16 /menit,80 /menit,REGULAR,36 C,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 11 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1025,2022-03-11 09:56:36,651631,,012525,P,,,,,2022-03-11 10:17:49,NGIMBANGAN,,1969-03-15,52 Tahun,11 Bulan,24 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1535344828.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Pusing,,3 Hari,Tidak,Tidak,Tidak,,,,,,,COMPOS MENTIS,TIDAK GAWAT DARURAT,153 cm,55 kg,80 cm,199 mm,112 Hg,16 /menit,80 /menit,REGULAR,36 C,,Essential (primary) hypertension (I10),BARU,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,"- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 21 menit,0 hari 0 jam 0 menit,0 hari 0 jam 30 menit,puskesmas.modopuro
+1026,2022-03-11 10:21:21,14732,P351608018100964,000635,L,,,,BURUH TANI/PERKEBUNAN,2022-03-11 10:27:25,KEBONDALEM,MOJOKERTO,1960-01-06,62 Tahun,2 Bulan,5 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,723596938.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,0 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,165 cm,68 kg,80 cm,130 mm,60 Hg,16 /menit,80 /menit,REGULAR,36 C,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 6 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1027,2022-03-14 08:04:41,94742,,006241,P,,,,,2022-03-14 08:36:29,PEKUKUHAN,,1976-12-12,45 Tahun,3 Bulan,2 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1043691647.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Tidak Ada Keluhan,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,159 cm,56 kg,,140 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- New Antides tablet
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Paracetamol tablet 500 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Asam Askorbat (vitamin C) tablet 50 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 31 menit,0 hari 0 jam 2 menit,0 hari 3 jam 33 menit,puskesmas.modopuro
+1028,2022-03-14 08:13:09,15699,P351609018000037,000526,P,,,,PENSIUNAN,2022-03-14 10:04:04,MOJOTAMPING,MOJOKERTO,1954-09-10,67 Tahun,6 Bulan,4 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,99399453.0,DR. NAILUL MAGHFIROH,RUKIYAH,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,155 cm,65 kg,,120 mm,80 Hg,20 /menit,84 /menit,REGULAR,36 C,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 1 jam 50 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1029,2022-03-14 08:26:44,279354,,010546,P,,,,,2022-03-14 08:43:00,KEBONDALEM,,1971-11-16,50 Tahun,3 Bulan,26 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2415519731.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Tangan Kesemutan,kontrol",,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,125 mm,85 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 2x1
+  Jumlah : 30
+  Racikan : R1
+
+- Natrium Diklofenak tab 50 mg
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1
+
+- Kalsium Laktat (Kalk) tablet 500 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 16 menit,0 hari 0 jam 0 menit,0 hari 3 jam 33 menit,puskesmas.modopuro
+1030,2022-03-14 08:28:09,294734,,001824,P,,,,,2022-03-14 09:52:39,KEBONDALEM,,1970-08-24,51 Tahun,6 Bulan,18 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2889094858.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Lemas,pusing",,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,162 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Myalgia (M79.1),BARU,Essential (primary) hypertension (I10),BARU,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,"- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Natrium Diklofenak tab 50 mg
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Kalsium Laktat (Kalk) tablet 500 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 1 jam 24 menit,0 hari 0 jam 1 menit,0 hari 2 jam 41 menit,puskesmas.modopuro
+1031,2022-03-14 08:49:04,13339,P351608018002310,001594,P,,,,BELUM/TIDAK BEKERJA,2022-03-14 08:56:36,KEDUNGGEMPOL,MOJOKERTO,1950-09-01,71 Tahun,6 Bulan,10 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,1297943256.0,DR. NAILUL MAGHFIROH,RUKIYAH,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,155 cm,60 kg,,140 mm,90 Hg,20 /menit,84 /menit,REGULAR,36 C,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 7 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1032,2022-03-14 09:34:02,613844,,012323,L,,,,,2022-03-14 09:38:14,KEBONDALEM,,1967-10-01,54 Tahun,5 Bulan,11 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,724676062.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 4 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1033,2022-03-14 11:31:30,355639,,011761,P,,,,,2022-03-14 11:36:04,NGIMBANGAN,,1975-11-16,46 Tahun,3 Bulan,26 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1535341882.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",KONTROL,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 4 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1034,2022-03-15 08:22:45,390659,,000874,L,,,,,2022-03-15 08:56:13,MODOPURO,,1955-12-31,66 Tahun,2 Bulan,12 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,1284837917.0,DR. NAILUL MAGHFIROH,"Noviliyah, Amd.Kep",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,120 mm,70 Hg,18 /menit,80 /menit,REGULAR,,,Hyperuricaemia without signs of inflammatory arthritis and tophaceous disease (E79.0),LAMA,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Allopurinol tablet 100 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 33 menit,0 hari 0 jam 0 menit,0 hari 0 jam 9 menit,puskesmas.modopuro
+1035,2022-03-15 08:40:30,13490,P351608018002495,002481,P,,,,BELUM/TIDAK BEKERJA,2022-03-15 09:20:57,KEBONDALEM,MOJOKERTO,1947-09-01,74 Tahun,6 Bulan,11 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,724373493.0,DR. NAILUL MAGHFIROH,RUKIYAH,Perut Terasa Sakit,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),LAMA,Disorders of purine and pyrimidine metabolism (E79),LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 40 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1036,2022-03-15 14:00:51,360191,,,P,,,,,2022-03-15 14:19:47,NGIMBANGAN,,1958-02-05,64 Tahun,1 Bulan,10 Hari,,,LAMA,Layanan Poskesdes,BPJS Kesehatan,2415528663.0,DR. NAILUL MAGHFIROH,,SERING BAK PD MLM HARI,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,157 cm,55 kg,,100 mm,60 Hg,18 /menit,88 /menit,REGULAR,,,Insulin-dependent diabetes mellitus (E10),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 18 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1037,2022-03-16 11:00:28,197039,,009968,P,,,,,2022-03-16 11:07:45,LEMINGGIR,,1950-05-04,71 Tahun,10 Bulan,12 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,2772387821.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,150 mm,90 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,Hypertensive heart disease (I11),LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 7 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1038,2022-03-17 08:19:31,15392,P351608018102518,002156,L,,,,BELUM/TIDAK BEKERJA,2022-03-17 08:29:52,LEMINGGIR,MOJOKERTO,1961-09-24,60 Tahun,5 Bulan,21 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,98532066.0,DR. NAILUL MAGHFIROH,,Kontrol Rutin,,0 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,165 cm,56 kg,,120 mm,80 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 10 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1039,2022-03-17 10:08:52,513195,,07107,L,,,,,2022-03-17 10:18:49,RANDUBANGO,,1954-12-31,67 Tahun,2 Bulan,14 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,2451433814.0,DR. NAILUL MAGHFIROH,,Kontrol Rutin,,0 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,159 cm,50 kg,,120 mm,80 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 9 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1040,2022-03-17 10:28:46,12490,P351608018000626,006746,P,,,,BURUH TANI/PERKEBUNAN,2022-03-17 10:33:06,PEKUKUHAN,MOJOKERTO,1964-02-04,58 Tahun,1 Bulan,13 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,726575938.0,DR. NAILUL MAGHFIROH,,Kontrol Rutin,,0 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,155 cm,50 kg,,151 mm,81 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 4 menit,0 hari 0 jam 1 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1041,2022-03-18 08:02:43,382274,,007993,P,,,,,2022-03-18 08:45:20,KEDUNGGEMPOL,,1960-09-01,61 Tahun,6 Bulan,14 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,1325610009.0,DR. NAILUL MAGHFIROH,RUKIYAH,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,155 cm,45 kg,,140 mm,90 Hg,20 /menit,80 /menit,REGULAR,36 C,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,"Pneumonia, unspecified (J18.9)",BARU,,,,,,,,,,Pendaftaran,0 hari 0 jam 42 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1042,2022-03-18 08:05:35,492187,,011641,P,,,,,2022-03-18 08:23:22,KEBONDALEM,,1965-08-17,56 Tahun,7 Bulan,1 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,786872654.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Gatal Diseluruh Tubuh, Gatal-gatal,",,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,120 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : 
+
+- Metformin HCl tablet 500 mg
+  Signa : 2x1
+  Jumlah : 30
+  Racikan : 
+
+- Klorfeniramina maleat (CTM) tablet 4 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : 
+
+- Vitamin B Kompleks tablet
+  Signa : 2x1
+  Jumlah : 10
+  Racikan :",Siti Asia,Pendaftaran,0 hari 0 jam 17 menit,0 hari 0 jam 0 menit,0 hari 1 jam 12 menit,puskesmas.modopuro
+1043,2022-03-18 09:08:16,12234,P351607018100004,000809,L,,,,PENSIUNAN,2022-03-18 09:10:11,KUTOREJO,MOJOKERTO,1949-07-05,72 Tahun,8 Bulan,13 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,98829718.0,DR. NAILUL MAGHFIROH,RUKIYAH,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,168 cm,55 kg,,120 mm,70 Hg,20 /menit,80 /menit,REGULAR,36 C,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 1 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1044,2022-03-18 13:23:31,15261,P351608018102025,004826,L,,,,BELUM/TIDAK BEKERJA,2022-03-18 15:44:01,MODOPURO,MOJOKERTO,1954-02-07,68 Tahun,1 Bulan,11 Hari,,,LAMA,Layanan Pusling,BPJS Kesehatan,98523639.0,DR. NAILUL MAGHFIROH,RUKIYAH,Badan Capek,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,165 cm,49 kg,,120 mm,80 Hg,20 /menit,88 /menit,REGULAR,36 C,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 2 jam 20 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1045,2022-03-19 08:47:41,662573,,012681,P,,,,,2022-03-19 09:02:51,JOTANGAN,,1957-05-09,64 Tahun,10 Bulan,10 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,2744015962.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kaki Bengkak Sesak Saat Jalan Sedikit,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,140 mm,90 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 15 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1046,2022-03-19 08:51:19,98119,,003950,P,,,,,2022-03-19 08:55:27,MODOPURO,MOJOKERTO,1965-08-19,56 Tahun,7 Bulan,0 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2010091689.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 4 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1047,2022-03-19 09:02:47,12689,P351608018001184,000008,P,,,,KARYAWAN SWASTA,2022-03-19 09:07:39,MODOPURO,MOJOKERTO,1974-04-21,47 Tahun,10 Bulan,26 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2212819727.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,"Personal history of endocrine, nutritional and metabolic diseases (Z86.3)",BARU,,,,,,,,,,Pendaftaran,0 hari 0 jam 4 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1048,2022-03-19 09:32:41,14276,P351608018100258,002534,L,,,,TUKANG BATU,2022-03-19 09:34:49,NGIMBANGAN,MOJOKERTO,1956-09-01,65 Tahun,6 Bulan,15 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,725000848.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Hypertensive heart disease (I11),LAMA,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 2 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1049,2022-03-21 08:04:34,12883,P351608018001641,003772,P,,,,BELUM/TIDAK BEKERJA,2022-03-21 08:09:56,KEDUNGGEMPOL,MOJOKERTO,1949-10-03,72 Tahun,5 Bulan,18 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,2093887585.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,150 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Hypertensive heart disease (I11),LAMA,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 5 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1050,2022-03-21 08:22:00,170860,,009670,P,,,,,2022-03-21 09:24:21,PEKUKUHAN,,1961-07-07,60 Tahun,8 Bulan,14 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,2321835287.0,DR. NAILUL MAGHFIROH,RUKIYAH,Mual,,3 Hari,Tidak,Tidak,Tidak,,,,,,,COMPOS MENTIS,TIDAK GAWAT DARURAT,155 cm,60 kg,,140 mm,90 Hg,20 /menit,84 /menit,REGULAR,36 C,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1-0-0
+  Jumlah : 30
+  Racikan : R1
+
+- Piridoksin (Vitamin B6) tablet 10 mg (HCL)
+  Signa : 3x1
+  Jumlah : 20
+  Racikan : R2
+
+- Tablet Tambah Darah
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R2",Siti Asia,Pendaftaran,0 hari 1 jam 2 menit,0 hari 0 jam 0 menit,0 hari 0 jam 41 menit,puskesmas.modopuro
+1051,2022-03-21 09:02:42,128784,,12224,P,KEBONDALEM,25.0,6.0,WIRASWASTA,2022-03-21 09:31:07,KEBONDALEM,MOJOKERTO,1968-06-22,53 Tahun,8 Bulan,27 Hari,,,LAMA,POLI UMUM,Gratis,2433842289.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol Gula,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,136 mm,87 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,Myalgia (M79.1),BARU,,,,,,,,"- Natrium Diklofenak tab 50 mg
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1
+
+- Kalsium Laktat (Kalk) tablet 500 mg
+  Signa : 1x1
+  Jumlah : 6
+  Racikan : R1
+
+- Tablet Tambah Darah
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 28 menit,0 hari 0 jam 0 menit,0 hari 0 jam 38 menit,puskesmas.modopuro
+1052,2022-03-21 09:07:13,13811,P351608018002948,005257,P,,,,BELUM/TIDAK BEKERJA,2022-03-21 09:12:34,LEMINGGIR,MOJOKERTO,1966-07-01,55 Tahun,8 Bulan,18 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,724773598.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,"Secondary hypertension, unspecified (I15.9)",LAMA,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 5 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1053,2022-03-21 09:14:00,13012,P351608018001835,005117,P,,,,BELUM/TIDAK BEKERJA,2022-03-21 09:20:00,MODOPURO,MOJOKERTO,1980-03-01,42 Tahun,0 Bulan,19 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,723943899.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Mata Kabur Pandangan Yang Sebelah Kiri,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,131 mm,90 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 6 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1054,2022-03-22 08:20:15,14925,P351608018101268,000023,L,,,,PEGAWAI NEGERI SIPIL (PNS),2022-03-22 08:43:11,PEKUKUHAN,MOJOKERTO,1952-06-10,69 Tahun,9 Bulan,12 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,98675043.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,120 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),LAMA,"Secondary hypertension, unspecified (I15.9)",LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 22 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1055,2022-03-22 08:47:51,502480,,000094,L,,,,,2022-03-22 08:53:46,KEBONDALEM,MOJOKERTO,1977-03-23,44 Tahun,11 Bulan,27 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2685097653.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 5 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1056,2022-03-22 09:13:48,12830,P351608018001543,001625,P,,,,WIRASWASTA,2022-03-22 09:15:18,MODOPURO,MOJOKERTO,1968-05-15,53 Tahun,10 Bulan,7 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2040723123.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,Other orthopaedic follow-up care (Z47),LAMA,Epilepsy (G40),LAMA,,,,,,,,Pendaftaran,0 hari 0 jam 1 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1057,2022-03-22 09:49:59,13121,P351608018001998,000540,P,,,,BELUM/TIDAK BEKERJA,2022-03-22 09:59:50,PEKUKUHAN,MOJOKERTO,1968-03-10,54 Tahun,0 Bulan,12 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,98532191.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,113 mm,84 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 9 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1058,2022-03-22 11:22:02,16163,P351609118000003,UMI MARCHAMAH,P,,,,PEGAWAI NEGERI SIPIL (PNS),2022-03-22 13:37:24,NGARJO,MOJOKERTO,1966-01-06,56 Tahun,2 Bulan,16 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,98506282.0,DR. NAILUL MAGHFIROH,,Kontrol Rutin,,0 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,154 cm,50 kg,,130 mm,80 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),BARU,,,,,,,,,,,,Pendaftaran,0 hari 2 jam 15 menit,0 hari 0 jam 1 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1059,2022-03-23 00:00:00,513484,,,P,,,,,2022-03-23 17:26:47,NGIMBANGAN,,1957-08-15,64 Tahun,7 Bulan,9 Hari,,,LAMA,PONKESDES NGIMBANGAN,BPJS Kesehatan,724858738.0,DR. NAILUL MAGHFIROH,,SERING BAK PD MLM HARI,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,155 cm,50 kg,,110 mm,60 Hg,18 /menit,80 /menit,REGULAR,,,Insulin-dependent diabetes mellitus with coma (E10.0),BARU,,,,,,,,,,,,Pendaftaran,0 hari 17 jam 26 menit,0 hari 0 jam 20 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1060,2022-03-23 08:10:39,13548,P351608018002578,000524,P,,,,BELUM/TIDAK BEKERJA,2022-03-23 08:38:30,RANDUBANGO,MOJOKERTO,1969-07-29,52 Tahun,7 Bulan,22 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2441210387.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,140 mm,90 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,Essential (primary) hypertension (I10),LAMA,,,,,,,,"- Metformin HCl tablet 500 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 2x1
+  Jumlah : 60
+  Racikan : R1
+
+- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 27 menit,0 hari 0 jam 0 menit,0 hari 0 jam 59 menit,puskesmas.modopuro
+1061,2022-03-23 08:57:43,13490,P351608018002495,002481,P,,,,BELUM/TIDAK BEKERJA,2022-03-23 09:11:00,KEBONDALEM,MOJOKERTO,1947-09-01,74 Tahun,6 Bulan,19 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,724373493.0,DR. NAILUL MAGHFIROH,RUKIYAH,"NYERI DI LUTUT, SENDI, KAKI BENGKAK",,3 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,155 cm,65 kg,,160 mm,90 Hg,20 /menit,84 /menit,REGULAR,36 C,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),BARU,Hyperuricaemia without signs of inflammatory arthritis and tophaceous disease (E79.0),BARU,,,,,,,,"- Allopurinol tablet 100 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 2x1
+  Jumlah : 14
+  Racikan : R1
+
+- Natrium Diklofenak tab 50 mg
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1
+
+- Kalsium Laktat (Kalk) tablet 500 mg
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 13 menit,0 hari 0 jam 6 menit,0 hari 0 jam 31 menit,puskesmas.modopuro
+1062,2022-03-23 09:29:33,15637,P351608018103333,008257,L,,,,BELUM/TIDAK BEKERJA,2022-03-23 09:37:51,RANDUBANGO,MOJOKERTO,1970-08-14,51 Tahun,7 Bulan,9 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2898486009.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 8 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1063,2022-03-24 08:26:41,354297,,001758,P,,,,,2022-03-24 09:08:59,MENANGGAL,,1956-12-31,65 Tahun,2 Bulan,21 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,724098475.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 42 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1064,2022-03-24 09:28:28,13567,P351608018002599,003252,P,,,,BELUM/TIDAK BEKERJA,2022-03-24 10:52:12,KEBONDALEM,MOJOKERTO,1984-03-01,38 Tahun,0 Bulan,22 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,725048548.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Pusing,,3 Hari,Tidak,Tidak,Tidak,,,,,,,COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,160 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,"- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 14
+  Racikan : R1
+
+- Gliseril Gualakolat tablet 100 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Asam Mefenamat tablet salut selaput 500 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 1 jam 23 menit,0 hari 0 jam 1 menit,0 hari 0 jam 11 menit,puskesmas.modopuro
+1065,2022-03-25 08:01:40,477743,,001309,P,,,,,2022-03-25 08:35:15,MODOPURO,,1945-12-31,76 Tahun,2 Bulan,22 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,2694906167.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,140 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Vitamin B Kompleks tablet
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1
+
+- Asam Mefenamat tablet salut selaput 500 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Amoksisilin kaplet 500 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 33 menit,0 hari 0 jam 0 menit,0 hari 1 jam 21 menit,puskesmas.modopuro
+1066,2022-03-25 08:40:12,13642,P351608018002703,000339,P,,,,BELUM/TIDAK BEKERJA,2022-03-25 09:28:45,PEKUKUHAN,MOJOKERTO,1968-06-01,53 Tahun,9 Bulan,21 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,725409628.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Telapak Kaki Nyeri,tebal",,2 Hari,Tidak,Tidak,Tidak,,,,,,,COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,120 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Natrium Diklofenak tab 50 mg
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 48 menit,0 hari 0 jam 2 menit,0 hari 0 jam 34 menit,puskesmas.modopuro
+1067,2022-03-25 10:32:37,15524,P351608018102991,007594,L,,,,BELUM/TIDAK BEKERJA,2022-03-25 10:40:25,KEBONDALEM,MOJOKERTO,1954-07-05,67 Tahun,8 Bulan,20 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,1904832178.0,DR. NAILUL MAGHFIROH,RUKIYAH,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,168 cm,55 kg,,130 mm,80 Hg,20 /menit,84 /menit,REGULAR,36 C,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 7 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1068,2022-03-26 00:00:00,14095,P351608018003377,008320,P,,,,BELUM/TIDAK BEKERJA,2022-03-26 10:32:51,NGIMBANGAN,MOJOKERTO,1955-05-12,66 Tahun,10 Bulan,16 Hari,,,LAMA,PONKESDES NGIMBANGAN,BPJS Kesehatan,725678368.0,DR. NAILUL MAGHFIROH,,SERING BAK PD MLM HARI,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,148 cm,54 kg,,120 mm,70 Hg,18 /menit,88 /menit,REGULAR,,,Insulin-dependent diabetes mellitus with coma (E10.0),BARU,,,,,,,,,,,,Pendaftaran,0 hari 10 jam 32 menit,0 hari 0 jam 29 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1069,2022-03-26 09:22:51,14959,P351608018101322,004594,L,,,,WIRASWASTA,2022-03-26 10:16:41,MODOPURO,MOJOKERTO,1957-12-31,64 Tahun,2 Bulan,23 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2244532443.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 53 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1070,2022-03-26 09:27:24,667821,,012726,P,,,,,2022-03-26 10:09:04,MEJOYO,,2001-06-03,20 Tahun,9 Bulan,23 Hari,,,BARU,POLI UMUM,BPJS Kesehatan,725919862.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,,COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,110 mm,60 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 41 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1071,2022-03-26 09:35:23,15425,P351608018102646,00454,L,,,,BELUM/TIDAK BEKERJA,2022-03-26 10:10:56,KEBONDALEM,MOJOKERTO,1961-05-10,60 Tahun,10 Bulan,16 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1104010931.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 35 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1072,2022-03-26 09:38:06,143414,,008707,P,,,,,2022-03-26 10:12:46,MENANGGAL,,1962-07-15,59 Tahun,8 Bulan,11 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1830606107.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,Cholelithiasis (K80),BARU,,,,,,,,,,Pendaftaran,0 hari 0 jam 34 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1073,2022-03-26 10:58:48,344101,,004452,P,,,,,2022-03-26 11:09:08,MENANGGAL,MOJOKERTO,1980-08-09,41 Tahun,7 Bulan,17 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,725006529.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Gatal,kepala Pusing",,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,60 kg,,140 mm,80 Hg,18 /menit,88 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,Allergic contact dermatitis (L23),LAMA,,,,,,,,"- Griseofulvin tablet 125 mg, micronized - GRICIN 125mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 10 menit,0 hari 0 jam 0 menit,0 hari 0 jam 2 menit,puskesmas.modopuro
+1074,2022-03-28 08:35:33,99740,,008553,P,,,,,2022-03-28 09:10:23,PEKUKUHAN,MOJOKERTO,1976-10-05,45 Tahun,5 Bulan,23 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2478784847.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Badan Sakit Semua,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,111 mm,76 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,Disorders of purine and pyrimidine metabolism (E79),BARU,,,,,,,,"- Metformin HCl tablet 500 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Simvastatin 10 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 20
+  Racikan : R1
+
+- Paracetamol tablet 500 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 34 menit,0 hari 0 jam 2 menit,0 hari 0 jam 5 menit,puskesmas.modopuro
+1075,2022-03-29 08:20:57,308214,,005140,P,,,,,2022-03-29 08:26:51,KEBONDALEM,MOJOKERTO,1973-05-20,48 Tahun,10 Bulan,9 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1313820821.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,"Senile cataract, unspecified (H25.9)",LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 5 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1076,2022-03-29 08:30:40,106757,,12737,P,RANDUBANGO,10.0,3.0,WIRASWASTA,2022-03-29 08:41:24,RANDUBANGO,MOJOKERTO,1971-05-06,50 Tahun,10 Bulan,23 Hari,M.IMRON,,BARU,POLI UMUM,Umum,,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Pusing,,1 Hari,Tidak,Tidak,Tidak,,,,,,,COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,139 mm,82 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,,,"- Paracetamol tablet 500 mg
+  Signa : 3x1
+  Jumlah : 6
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 6
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 4
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 10 menit,0 hari 0 jam 0 menit,0 hari 0 jam 17 menit,puskesmas.modopuro
+1077,2022-03-29 08:33:44,340665,,010768,L,,,,,2022-03-29 08:58:17,MENANGGAL,,1965-04-18,56 Tahun,11 Bulan,11 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1104049462.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,"Pusing,cek Gula",,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,170 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,"Hyperlipidaemia, unspecified (E78.5)",BARU,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Simvastatin 10 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Asam Mefenamat tablet salut selaput 500 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 24 menit,0 hari 0 jam 2 menit,0 hari 0 jam 18 menit,puskesmas.modopuro
+1078,2022-03-29 09:28:48,113451,,002876,L,,,,,2022-03-29 10:07:23,MODOPURO,,1968-08-01,53 Tahun,7 Bulan,25 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,723963194.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,"Kedua Kaki Kesemutan,cepat  Lelah",,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,115 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,Acute nasopharyngitis [common cold] (J00),BARU,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x11/2
+  Jumlah : 60
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Gliseril Gualakolat tablet 100 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Asam Asetisalisilat tablet 100 mg (Asetosal)
+  Signa : 1x1
+  Jumlah : 5
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 38 menit,0 hari 0 jam 0 menit,0 hari 0 jam 17 menit,puskesmas.modopuro
+1079,2022-03-30 08:01:06,108186,,008727,P,,,,,2022-03-30 08:07:50,MOJOTAMPING,,1957-05-05,64 Tahun,10 Bulan,25 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,1304363889.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,0 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,152 cm,60 kg,80 cm,120 mm,70 Hg,16 /menit,80 /menit,REGULAR,36 C,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,Hypertensive heart disease (I11),BARU,,,,,,,,,,Pendaftaran,0 hari 0 jam 6 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1080,2022-03-30 10:46:26,160957,,009526,P,,,,,2022-03-30 11:25:47,MODOPURO,,1971-04-21,50 Tahun,11 Bulan,9 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2094560381.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Tidak Ada Keluhan Ambil Obat,,5 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,153 cm,55 kg,80 cm,120 mm,70 Hg,16 /menit,80 /menit,REGULAR,36 C,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 39 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1081,2022-03-31 09:12:33,366222,,,P,,,,,2022-03-31 09:13:48,,,1979-12-04,42 Tahun,3 Bulan,27 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,99509218.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,CAPEK,,2 Hari,Tidak,Tidak,Tidak,,,,,,,COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,58 kg,,140 mm,90 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 1 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1082,2022-03-31 09:15:04,13121,P351608018001998,000540,P,,,,BELUM/TIDAK BEKERJA,2022-03-31 09:16:02,PEKUKUHAN,MOJOKERTO,1968-03-10,54 Tahun,0 Bulan,21 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,98532191.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",SERING KENCING,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,160 cm,60 kg,,130 mm,90 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1083,2022-03-31 09:17:16,12572,P351608018000863,000456,P,,,,PEGAWAI NEGERI SIPIL (PNS),2022-03-31 09:18:03,MODOPURO,MOJOKERTO,1959-09-11,62 Tahun,6 Bulan,20 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,98533664.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",CAPEK,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,160 cm,68 kg,,110 mm,70 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1084,2022-03-31 09:19:01,14124,P351608018003426,000626,P,,,,BELUM/TIDAK BEKERJA,2022-03-31 09:19:43,RANDUBANGO,MOJOKERTO,1957-11-27,64 Tahun,4 Bulan,4 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,98837504.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,MUDAH LELAH,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,150 cm,60 kg,,120 mm,80 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,"- Natrium Diklofenak tab 50 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Gliseril Gualakolat tablet 100 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 0 menit,0 hari 0 jam 36 menit,0 hari 0 jam 38 menit,puskesmas.modopuro
+1085,2022-03-31 09:27:02,12889,P351608018001650,005444,P,,,,BELUM/TIDAK BEKERJA,2022-03-31 09:27:39,MODOPURO,MOJOKERTO,1957-08-31,64 Tahun,7 Bulan,0 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,98503896.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,CAPEK,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,160 cm,69 kg,,130 mm,90 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1086,2022-03-31 09:28:25,15469,P351608018102803,000295,L,,,,BELUM/TIDAK BEKERJA,2022-03-31 09:29:19,KEBONDALEM,MOJOKERTO,1965-04-14,56 Tahun,11 Bulan,17 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,724088193.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",CEPAT LELAH,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,160 cm,58 kg,,120 mm,80 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1087,2022-03-31 09:29:58,229542,,,P,,,,,2022-03-31 09:30:50,,,1966-09-04,55 Tahun,6 Bulan,27 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,98505832.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,MUDAH LELAH,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,155 cm,60 kg,,110 mm,70 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1088,2022-03-31 09:31:56,16163,P351609118000003,UMI MARCHAMAH,P,,,,PEGAWAI NEGERI SIPIL (PNS),2022-03-31 09:32:36,NGARJO,MOJOKERTO,1966-01-06,56 Tahun,2 Bulan,25 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,98506282.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,CAPEK,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,150 cm,60 kg,,130 mm,90 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1089,2022-03-31 09:32:00,356126,,012629,P,,,,,2022-03-31 09:37:15,NGIMBANGAN,,1964-04-08,57 Tahun,11 Bulan,23 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2415529034.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 5 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1090,2022-03-31 09:33:09,553594,,,P,,,,,2022-03-31 09:34:46,NGASTEMI,MJK,1965-10-26,56 Tahun,5 Bulan,5 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,98507068.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,MUDAH LELAH,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,165 cm,67 kg,,120 mm,70 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 1 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1091,2022-03-31 09:36:31,185351,,009682,L,,,,,2022-03-31 09:37:14,MODOPURO,,1971-03-29,51 Tahun,0 Bulan,2 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,162307484.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",SERING KENCING,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,170 cm,78 kg,,140 mm,90 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1092,2022-03-31 09:40:50,13157,P351608018002051,002100,P,,,,BELUM/TIDAK BEKERJA,2022-03-31 09:41:37,PEKUKUHAN,MOJOKERTO,1948-06-08,73 Tahun,9 Bulan,23 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,726450557.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,CAPEK CAPEK,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,155 cm,65 kg,,130 mm,90 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1093,2022-03-31 09:43:29,15381,P351608018102496,003666,L,,,,BELUM/TIDAK BEKERJA,2022-03-31 09:44:20,MODOPURO,MOJOKERTO,1964-07-28,57 Tahun,8 Bulan,3 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1310471559.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,"Secondary hypertension, unspecified (I15.9)",LAMA,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1094,2022-03-31 09:44:41,317578,,002550,L,,,,,2022-03-31 09:45:18,MODOPURO,,1953-12-29,68 Tahun,3 Bulan,2 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,158006035.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,CAPEK,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,160 cm,69 kg,,130 mm,90 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1095,2022-03-31 09:46:04,15810,P351609018000302,010097,P,,,,BELUM/TIDAK BEKERJA,2022-03-31 09:46:55,BANGSAL,MOJOKERTO,1960-03-02,62 Tahun,0 Bulan,29 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,98549651.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,SERING KENCING DAN CAPEK,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,60 kg,,140 mm,90 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1096,2022-03-31 09:53:19,13953,P351608018003151,004280,P,,,,BELUM/TIDAK BEKERJA,2022-03-31 09:54:10,JOTANGAN,MOJOKERTO,1957-01-20,65 Tahun,2 Bulan,11 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2498942035.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,SERING CAPEK,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,148 cm,55 kg,,130 mm,90 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1097,2022-03-31 09:54:48,16074,P351609018100213,010421,L,,,,WIRASWASTA,2022-03-31 09:55:33,BANGSAL,MOJOKERTO,1957-05-08,64 Tahun,10 Bulan,23 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,98503165.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,SERING KENCING,,3 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,169 cm,70 kg,,130 mm,80 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1098,2022-03-31 09:56:10,99740,,008553,P,,,,,2022-03-31 09:57:11,PEKUKUHAN,MOJOKERTO,1976-10-05,45 Tahun,5 Bulan,26 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2478784847.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",CAPEK,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,150 cm,60 kg,,120 mm,80 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 1 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1099,2022-03-31 09:57:46,143414,,008707,P,,,,,2022-03-31 09:58:44,MENANGGAL,,1962-07-15,59 Tahun,8 Bulan,16 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1830606107.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,MUDAH CAPEK,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,160 cm,70 kg,,120 mm,80 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1100,2022-03-31 10:05:56,95467,,002637,P,,,,,2022-03-31 10:06:48,PEKUKUHAN,,1956-05-24,65 Tahun,10 Bulan,7 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2415530531.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,CAPEK CAPEK,,1 Hari,Tidak,Tidak,Tidak,,,,,,,COMPOS MENTIS,TIDAK GAWAT DARURAT,150 cm,60 kg,,130 mm,90 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1101,2022-03-31 10:07:23,390659,,000874,L,,,,,2022-03-31 10:08:11,MODOPURO,,1955-12-31,66 Tahun,3 Bulan,0 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1284837917.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,SERING KENCING,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,167 cm,79 kg,,130 mm,90 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1102,2022-03-31 10:08:52,12893,P351608018001658,00874,P,,,,BELUM/TIDAK BEKERJA,2022-03-31 10:09:38,MODOPURO,MOJOKERTO,1958-12-31,63 Tahun,3 Bulan,0 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1284838749.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,CAPEK CAPEK,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,159 cm,60 kg,,130 mm,90 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1103,2022-03-31 10:09:20,669607,,012653,P,,,,,2022-03-31 10:31:00,MENANGGAL,,1956-02-21,66 Tahun,1 Bulan,10 Hari,,,BARU,POLI UMUM,Umum,,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,,COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,Essential (primary) hypertension (I10),BARU,,,,,,,,"- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 20
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 20
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1",Siti Asia,Pendaftaran,0 hari 0 jam 21 menit,0 hari 0 jam 0 menit,0 hari 0 jam 15 menit,puskesmas.modopuro
+1104,2022-03-31 10:10:17,181727,,009812,L,,,,,2022-03-31 10:11:18,PEKUKUHAN,,1968-04-14,53 Tahun,11 Bulan,17 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,724871889.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,BADAN SERING KRAM DAN CAPEK,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,",COMPOS MENTIS,TIDAK GAWAT DARURAT,170 cm,60 kg,,120 mm,70 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 1 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1105,2022-03-31 10:12:40,669612,,,L,,,,,2022-03-31 10:13:26,LEMINGGIR,,1961-10-04,60 Tahun,5 Bulan,27 Hari,,,BARU,POLI UMUM,BPJS Kesehatan,97805575.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,MUDAH LELAH,,3 Hari,Tidak,Tidak,Tidak,,,,,,,COMPOS MENTIS,TIDAK GAWAT DARURAT,170 cm,67 kg,,130 mm,90 Hg,20 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1106,2022-04-01 00:00:00,358786,,,P,,,,,2022-04-01 11:43:08,NGIMBANGAN,,1967-07-20,54 Tahun,8 Bulan,13 Hari,,,LAMA,PONKESDES NGIMBANGAN,BPJS Kesehatan,725694232.0,DR. NAILUL MAGHFIROH,,SERING BAK PD MLM HARI,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,147 cm,45 kg,,110 mm,60 Hg,16 /menit,80 /menit,REGULAR,,,Insulin-dependent diabetes mellitus (E10),BARU,,,,,,,,,,,,Pendaftaran,0 hari 11 jam 43 menit,0 hari 0 jam 19 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1107,2022-04-01 08:09:05,13157,P351608018002051,002100,P,,,,BELUM/TIDAK BEKERJA,2022-04-01 09:30:48,PEKUKUHAN,MOJOKERTO,1948-06-08,73 Tahun,9 Bulan,24 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,726450557.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,"Linu,cek Gula",,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,"Arthritis, unspecified (M13.9)",BARU,,,,,,,,"- Metformin HCl tablet 500 mg
+  Signa : 2x1
+  Jumlah : 30
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Allopurinol tablet 100 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Natrium Diklofenak tab 50 mg
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 1 jam 21 menit,0 hari 0 jam 0 menit,0 hari 0 jam 7 menit,puskesmas.modopuro
+1108,2022-04-01 08:21:25,492187,,011641,P,,,,,2022-04-01 09:35:52,KEBONDALEM,,1965-08-17,56 Tahun,7 Bulan,15 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,786872654.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Susah Tidur, Gatal-gatal,",,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,124 mm,76 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Simvastatin 10 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 2x1
+  Jumlah : 30
+  Racikan : R1
+
+- CETIRIZINE TABLET
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 1 jam 14 menit,0 hari 0 jam 0 menit,0 hari 0 jam 7 menit,puskesmas.modopuro
+1109,2022-04-01 08:30:19,511208,,011773,P,,,,,2022-04-01 08:54:32,NGIMBANGAN,,1962-06-15,59 Tahun,9 Bulan,17 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,724809846.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Mata Bengkak,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,151 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,Allergic contact dermatitis (L23),BARU,,,,,,,,"- Dexamethason tablet 0,5 mg
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- CETIRIZINE TABLET
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1
+
+- Asam Mefenamat tablet salut selaput 500 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 24 menit,0 hari 0 jam 0 menit,0 hari 0 jam 10 menit,puskesmas.modopuro
+1110,2022-04-01 08:33:02,547340,,,L,margorejo,4.0,4.0,KARYAWAN SWASTA,2022-04-01 09:15:42,MARGOREJO,MOJOKERTO,1964-10-12,57 Tahun,5 Bulan,20 Hari,,,BARU,POLI UMUM,Umum,,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,"Pusing,badan Lemas",,1 Hari,Tidak,Tidak,Tidak,,,,,,  ,COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,139 mm,85 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Asam Mefenamat tablet salut selaput 500 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Vitamin B Kompleks tablet
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 42 menit,0 hari 0 jam 0 menit,0 hari 0 jam 15 menit,puskesmas.modopuro
+1111,2022-04-01 09:20:18,13973,P351608018003182,000635,P,,,,BELUM/TIDAK BEKERJA,2022-04-01 09:42:20,KEBONDALEM,MOJOKERTO,1972-01-01,50 Tahun,3 Bulan,0 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,723597344.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Lutut Nyeri,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,143 mm,90 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Natrium Diklofenak tab 50 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 22 menit,0 hari 0 jam 0 menit,0 hari 0 jam 8 menit,puskesmas.modopuro
+1112,2022-04-02 09:16:52,132960,,009160,P,,,,,2022-04-02 09:32:07,MODOPURO,,1968-02-02,54 Tahun,2 Bulan,0 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,98615946.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kedua Kai Terasa Cekot2 Dan Tebal,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,163 mm,100 Hg,18 /menit,80 /menit,REGULAR,,,Essential (primary) hypertension (I10),LAMA,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,"- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Piroxicam 20 mg
+  Signa : 1x1
+  Jumlah : 6
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 15 menit,0 hari 0 jam 0 menit,0 hari 0 jam 24 menit,puskesmas.modopuro
+1113,2022-04-04 08:50:59,110352,,008654,L,,,,,2022-04-04 09:23:52,MODOPURO,,1961-08-01,60 Tahun,8 Bulan,3 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,724963239.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Gatal Semua,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,170 mm,100 Hg,18 /menit,80 /menit,REGULAR,,,Essential (primary) hypertension (I10),LAMA,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,"- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Klorfeniramina maleat (CTM) tablet 4 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 1x1/2
+  Jumlah : 15
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 15
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 32 menit,0 hari 0 jam 1 menit,0 hari 0 jam 3 menit,puskesmas.modopuro
+1114,2022-04-04 08:52:23,13130,P351608018002008,000406,P,,,,BELUM/TIDAK BEKERJA,2022-04-04 09:12:44,JOTANGAN,MOJOKERTO,1952-01-01,70 Tahun,3 Bulan,3 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,1342203625.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Bak Nyeri,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,150 mm,90 Hg,18 /menit,80 /menit,REGULAR,,,Essential (primary) hypertension (I10),LAMA,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,"- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 1x1/2
+  Jumlah : 15
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 20 menit,0 hari 0 jam 1 menit,0 hari 0 jam 12 menit,puskesmas.modopuro
+1115,2022-04-04 08:59:01,14124,P351608018003426,000626,P,,,,BELUM/TIDAK BEKERJA,2022-04-04 10:08:37,RANDUBANGO,MOJOKERTO,1957-11-27,64 Tahun,4 Bulan,8 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,98837504.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,"Batuk, Pilek, Nyeri Dahak, Demam,",,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,154 mm,79 Hg,18 /menit,80 /menit,REGULAR,,,Essential (primary) hypertension (I10),LAMA,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,"Arthritis, unspecified (M13.9)",BARU,Acute nasopharyngitis [common cold] (J00),BARU,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Gliseril Gualakolat tablet 100 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- DEMACOLIN TABLET
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 1 jam 9 menit,0 hari 0 jam 1 menit,0 hari 0 jam 3 menit,puskesmas.modopuro
+1116,2022-04-04 09:00:10,14668,P351608018100866,000071,L,,,,WIRASWASTA,2022-04-04 09:30:50,KEBONDALEM,MOJOKERTO,1978-11-17,43 Tahun,4 Bulan,18 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2415520416.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Sering BAK,batuk,pilek",,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,132 mm,100 Hg,18 /menit,80 /menit,REGULAR,,,Essential (primary) hypertension (I10),LAMA,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,Acute nasopharyngitis [common cold] (J00),BARU,,,,,,"- Kaptopril tablet 25 mg
+  Signa : 1x1
+  Jumlah : 15
+  Racikan : R1
+
+- Grantusif
+  Signa : 3x1
+  Jumlah : 6
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 1x1/2
+  Jumlah : 15
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 30 menit,0 hari 0 jam 1 menit,0 hari 0 jam 5 menit,puskesmas.modopuro
+1117,2022-04-05 00:00:00,505614,,,L,,,,,2022-04-05 10:31:55,NGIMBANGAN,,1971-04-06,51 Tahun,0 Bulan,0 Hari,,,LAMA,PONKESDES NGIMBANGAN,BPJS Kesehatan,2415527976.0,DR. NAILUL MAGHFIROH,,SERING BAK PD MLM HARI,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,160 cm,60 kg,,120 mm,70 Hg,18 /menit,88 /menit,REGULAR,,,Insulin-dependent diabetes mellitus (E10),BARU,,,,,,,,,,,,Pendaftaran,0 hari 10 jam 31 menit,0 hari 0 jam 27 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1118,2022-04-05 08:17:53,13590,P351608018002632,002743,P,,,,BELUM/TIDAK BEKERJA,2022-04-05 09:05:47,MENANGGAL,MOJOKERTO,1973-06-01,48 Tahun,10 Bulan,4 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,724646373.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,"Lemas,rasa Haus,sering Bak",,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,132 mm,91 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 15
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 47 menit,0 hari 0 jam 0 menit,0 hari 0 jam 32 menit,puskesmas.modopuro
+1119,2022-04-05 08:46:24,629351,,ENDANG,L,,,,,2022-04-05 09:03:21,MODOPURO,,1961-08-07,60 Tahun,7 Bulan,29 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,100132503.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 16 menit,0 hari 0 jam 0 menit,0 hari 0 jam 36 menit,puskesmas.modopuro
+1120,2022-04-05 09:57:28,12378,P351608018000313,000945,P,,,,PETERNAK,2022-04-05 09:59:07,MODOPURO,MOJOKERTO,1955-09-19,66 Tahun,6 Bulan,17 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,2219121325.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 1 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1121,2022-04-06 08:16:27,382274,,007993,P,,,,,2022-04-06 08:42:58,KEDUNGGEMPOL,,1960-09-01,61 Tahun,7 Bulan,5 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,1325610009.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,169 mm,95 Hg,18 /menit,80 /menit,REGULAR,,,Essential (primary) hypertension (I10),LAMA,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,"- Asam Mefenamat tablet salut selaput 500 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Amlodipin 5 mg
+  Signa : 3x2
+  Jumlah : 14
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 26 menit,0 hari 0 jam 1 menit,0 hari 0 jam 53 menit,puskesmas.modopuro
+1122,2022-04-06 08:29:00,14925,P351608018101268,000023,L,,,,PEGAWAI NEGERI SIPIL (PNS),2022-04-06 08:40:58,PEKUKUHAN,MOJOKERTO,1952-06-10,69 Tahun,9 Bulan,27 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,98675043.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 11 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1123,2022-04-06 08:50:05,270253,,3044,P,,,,,2022-04-06 08:51:13,PEKUKUHAN,,1965-09-16,56 Tahun,6 Bulan,21 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1961486368.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,110 mm,60 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with other specified complications (E11.6),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 1 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1124,2022-04-06 09:41:04,12504,P351608018000666,000762,P,,,,WIRASWASTA,2022-04-06 09:55:57,MODOPURO,MOJOKERTO,1960-12-12,61 Tahun,3 Bulan,25 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,1294411307.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Pusing,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,142 mm,93 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,"Hyperlipidaemia, unspecified (E78.5)",BARU,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Simvastatin 10 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Asam Mefenamat tablet salut selaput 500 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Antasida DOEN I tablet kunyah, kombinasi :Aluminium Hidroksida 200 mg + Magnesium Hidroksida 200 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 14 menit,0 hari 0 jam 0 menit,0 hari 0 jam 25 menit,puskesmas.modopuro
+1125,2022-04-06 10:27:29,15609,P351608018103264,011243,L,,,,BELUM/TIDAK BEKERJA,2022-04-06 11:07:11,MENANGGAL,MOJOKERTO,1962-12-31,59 Tahun,3 Bulan,6 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2469903941.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kaki Terasa Kemeng,,1 Hari,Tidak,Tidak,Tidak,,,,,,  ,COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,220 mm,117 Hg,18 /menit,80 /menit,REGULAR,,,Essential (primary) hypertension (I10),BARU,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,"Hyperlipidaemia, unspecified (E78.5)",BARU,,,,,,"- Natrium Diklofenak tab 50 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Simvastatin 10 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Allopurinol tablet 100 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 39 menit,0 hari 0 jam 0 menit,0 hari 0 jam 16 menit,puskesmas.modopuro
+1126,2022-04-07 21:24:28,13898,P351608018003070,007984,P,,,,BELUM/TIDAK BEKERJA,2022-04-07 21:44:55,NGIMBANGAN,MOJOKERTO,1941-03-01,81 Tahun,1 Bulan,9 Hari,,,LAMA,PONKESDES NGIMBANGAN,BPJS Kesehatan,725343614.0,DR. NAILUL MAGHFIROH,,SERING BAK LEMES NGANTUK,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,150 cm,50 kg,,120 mm,70 Hg,18 /menit,88 /menit,REGULAR,,,Insulin-dependent diabetes mellitus (E10),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 20 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1127,2022-04-07 21:28:54,104313,,006956,L,,,,,2022-04-07 21:48:33,NGIMBANGAN,,1964-02-01,58 Tahun,2 Bulan,6 Hari,,,LAMA,PONKESDES NGIMBANGAN,BPJS Kesehatan,725688832.0,DR. NAILUL MAGHFIROH,,SERING BAK PD MLM HR,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,160 cm,55 kg,,120 mm,70 Hg,18 /menit,80 /menit,REGULAR,,,Insulin-dependent diabetes mellitus (E10),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 19 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1128,2022-04-08 08:30:23,229381,,009953,P,,,,,2022-04-08 08:54:13,LEMINGGIR,,1965-07-19,56 Tahun,8 Bulan,20 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2415521643.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Pusing,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,172 mm,100 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,Essential (primary) hypertension (I10),LAMA,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 20
+  Racikan : R1
+
+- Dimenhdrinat tablet 50 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Klorfeniramina maleat (CTM) tablet 4 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 23 menit,0 hari 0 jam 0 menit,0 hari 0 jam 23 menit,puskesmas.modopuro
+1129,2022-04-08 08:31:33,15651,P351608018103358,001758,L,,,,BELUM/TIDAK BEKERJA,2022-04-08 08:42:00,MENANGGAL,MOJOKERTO,1954-12-31,67 Tahun,3 Bulan,8 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,724097283.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kaki Cekot Cekot,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,140 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,Hyperuricaemia without signs of inflammatory arthritis and tophaceous disease (E79.0),BARU,,,,,,,,"- Natrium Diklofenak tab 50 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Allopurinol tablet 100 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 10 menit,0 hari 0 jam 1 menit,0 hari 0 jam 33 menit,puskesmas.modopuro
+1130,2022-04-08 09:03:08,197039,,009968,P,,,,,2022-04-08 09:24:20,LEMINGGIR,,1950-05-04,71 Tahun,11 Bulan,4 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,2772387821.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Batuk,hidung Terasa Sakit,batuk Berdahak",,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,150 mm,77 Hg,18 /menit,80 /menit,REGULAR,,,Hypertensive heart disease (I11),LAMA,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,Acute nasopharyngitis [common cold] (J00),BARU,,,,,,"- Amoksisilin kaplet 500 mg
+  Signa : 3x1
+  Jumlah : 15
+  Racikan : R1
+
+- Asam Askorbat (vitamin C) tablet 50 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Bromheksin 8 mg Tablet
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Klorfeniramina maleat (CTM) tablet 4 mg
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 21 menit,0 hari 0 jam 0 menit,0 hari 0 jam 5 menit,puskesmas.modopuro
+1131,2022-04-08 09:07:56,189815,,9289,P,,,,,2022-04-08 10:01:14,MODOPURO,,1977-07-14,44 Tahun,8 Bulan,25 Hari,,,LAMA,POLI UMUM,Gratis,2772315178.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Batuk, Dada Sakit, Batuk,",,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,120 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,"Respiratory tuberculosis, not confirmed bacteriologically or histologically (A16)",BARU,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,"- Metformin HCl tablet 500 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Vitamin B Kompleks tablet
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Gliseril Gualakolat tablet 100 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 53 menit,0 hari 0 jam 0 menit,0 hari 0 jam 8 menit,puskesmas.modopuro
+1132,2022-04-08 09:37:24,651631,,012525,P,,,,,2022-04-08 09:50:29,NGIMBANGAN,,1969-03-15,53 Tahun,0 Bulan,24 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1535344828.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Pasien Tidak Ikut,,1 Hari,Tidak,Tidak,Tidak,,,,,,  ,COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,140 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,Essential (primary) hypertension (I10),LAMA,,,,,,,,"- Amlodipin 5 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 20
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 13 menit,0 hari 0 jam 0 menit,0 hari 0 jam 4 menit,puskesmas.modopuro
+1133,2022-04-08 09:40:43,94749,,008457,P,,,,,2022-04-08 09:45:06,NGIMBANGAN,,1952-01-17,70 Tahun,2 Bulan,22 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,1824271345.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,"Ulcer of lower limb, not elsewhere classified (L97)",LAMA,Leprosy [Hansen disease] (A30),LAMA,,,,,,,,Pendaftaran,0 hari 0 jam 4 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1134,2022-04-09 09:16:30,611649,,012297,P,,,,,2022-04-09 09:18:55,PEKUKUHAN,,1974-03-23,48 Tahun,0 Bulan,17 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2731148201.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,Cerebral infarction (I63),BARU,"Pneumonia, unspecified (J18.9)",BARU,,,,,,,,Pendaftaran,0 hari 0 jam 2 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1135,2022-04-11 08:35:38,294734,,001824,P,,,,,2022-04-11 12:14:03,KEBONDALEM,,1970-08-24,51 Tahun,7 Bulan,18 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,2889094858.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Lemas,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,159 cm,56 kg,,162 mm,93 Hg,18 /menit,80 /menit,REGULAR,,,Myalgia (M79.1),BARU,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,(01001) BPJS - Rawat jalan di Poliklinik Umum / KIA - KB/Gigi setiap kali kunjungan,"- Natrium Diklofenak tab 50 mg
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 3 jam 38 menit,0 hari 0 jam 1 menit,6 hari 21 jam 47 menit,puskesmas.modopuro
+1136,2022-04-11 08:43:34,12590,P351608018000916,002225,P,,,,WIRASWASTA,2022-04-11 09:05:47,MODOPURO,MOJOKERTO,1948-07-27,73 Tahun,8 Bulan,15 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,98842858.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kaki Kesemutan,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,115 mm,70 Hg,18 /menit,80 /menit,REGULAR,,,Other acute ischaemic heart diseases (I24),LAMA,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,(01001) BPJS - Rawat jalan di Poliklinik Umum / KIA - KB/Gigi setiap kali kunjungan,,,Pendaftaran,0 hari 0 jam 22 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1137,2022-04-11 08:53:12,14752,P351608018100992,000147,L,,,,PENSIUNAN,2022-04-11 08:58:19,MODOPURO,MOJOKERTO,1961-06-11,60 Tahun,10 Bulan,0 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1842860981.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,"Personal history of endocrine, nutritional and metabolic diseases (Z86.3)",BARU,,,,,,,,,,Pendaftaran,0 hari 0 jam 5 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1138,2022-04-11 09:14:20,13130,P351608018002008,000406,P,,,,BELUM/TIDAK BEKERJA,2022-04-11 09:18:52,JOTANGAN,MOJOKERTO,1952-01-01,70 Tahun,3 Bulan,10 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,1342203625.0,DR. NAILUL MAGHFIROH,RUKIYAH,"Kaki Terasa Tebal, Ada Luka Dikaki",,7 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,155 cm,65 kg,,140 mm,90 Hg,20 /menit,80 /menit,REGULAR,36 C,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,Essential (primary) hypertension (I10),BARU,,,,,,,,,,Pendaftaran,0 hari 0 jam 4 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1139,2022-04-11 20:50:53,360191,,,P,,,,,2022-04-11 21:11:33,NGIMBANGAN,,1958-02-05,64 Tahun,2 Bulan,6 Hari,,,LAMA,PONKESDES NGIMBANGAN,BPJS Kesehatan,2415528663.0,DR. NAILUL MAGHFIROH,,SERING BAK PD MLM HARI,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,160 cm,60 kg,,120 mm,70 Hg,18 /menit,80 /menit,REGULAR,,,Insulin-dependent diabetes mellitus (E10),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 20 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1140,2022-04-12 00:00:00,189722,,7686,P,,,,,2022-04-12 08:51:03,NGIMBANGAN,,1955-03-01,67 Tahun,1 Bulan,15 Hari,,,LAMA,PONKESDES NGIMBANGAN,BPJS Kesehatan,724878371.0,DR. NAILUL MAGHFIROH,,SERING BAK,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,150 cm,50 kg,,110 mm,60 Hg,18 /menit,80 /menit,REGULAR,,,Insulin-dependent diabetes mellitus (E10),BARU,,,,,,,,,,,,Pendaftaran,0 hari 8 jam 51 menit,0 hari 0 jam 52 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1141,2022-04-12 09:35:28,14442,P351608018100519,002041,L,,,,PENSIUNAN,2022-04-12 09:49:57,KEBONDALEM,MOJOKERTO,1940-12-01,81 Tahun,4 Bulan,12 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,98867891.0,DR. NAILUL MAGHFIROH,RUKIYAH,Tidak Bisa Kencing,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Retention of urine (R33),BARU,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,Hypertensive heart disease (I11),LAMA,,,,,,,,Pendaftaran,0 hari 0 jam 14 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1142,2022-04-12 09:41:51,356535,,011189,L,,,,,2022-04-12 10:22:28,KEDUNGGEMPOL,,1968-11-01,53 Tahun,5 Bulan,11 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,724097395.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kaki Terasa Linu,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,136 mm,90 Hg,18 /menit,80 /menit,REGULAR,,,"Arthritis, unspecified (M13.9)",BARU,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,(01001) BPJS - Rawat jalan di Poliklinik Umum / KIA - KB/Gigi setiap kali kunjungan,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+- Piroxicam 20 mg
+  Signa : 1x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 40 menit,0 hari 0 jam 1 menit,0 hari 9 jam 44 menit,puskesmas.modopuro
+1143,2022-04-12 10:23:39,349743,,010821,P,,,,,2022-04-12 10:25:16,NGIMBANGAN,,1968-10-30,53 Tahun,5 Bulan,13 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1879017118.0,DR. NAILUL MAGHFIROH,RUKIYAH,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with peripheral circulatory complications (E11.5),LAMA,"Secondary hypertension, unspecified (I15.9)",LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 1 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1144,2022-04-13 08:00:37,14665,P351608018100861,000655,L,,,,PENSIUNAN,2022-04-13 08:29:09,KEBONDALEM,MOJOKERTO,1940-12-20,81 Tahun,3 Bulan,24 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,98836806.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,120 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 28 menit,0 hari 0 jam 1 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1145,2022-04-13 08:07:48,13473,P351608018002472,000413,P,,,,BELUM/TIDAK BEKERJA,2022-04-13 08:32:42,LEMINGGIR,MOJOKERTO,1969-11-25,52 Tahun,4 Bulan,19 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1443061089.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 24 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1146,2022-04-13 08:19:37,15810,P351609018000302,010097,P,,,,BELUM/TIDAK BEKERJA,2022-04-13 08:54:43,BANGSAL,MOJOKERTO,1960-03-02,62 Tahun,1 Bulan,11 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,98549651.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns","Mual,bila Sahur",,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,159 cm,56 kg,,142 mm,89 Hg,18 /menit,80 /menit,REGULAR,,,Essential (primary) hypertension (I10),LAMA,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,(01001) BPJS - Rawat jalan di Poliklinik Umum / KIA - KB/Gigi setiap kali kunjungan,"- Piridoksin (Vitamin B6) tablet 10 mg (HCL)
+  Signa : 2x1
+  Jumlah : 20
+  Racikan : R1
+
+- Ranitidin tab 150 mg
+  Signa : 2x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 35 menit,0 hari 0 jam 0 menit,0 hari 1 jam 34 menit,puskesmas.modopuro
+1147,2022-04-13 09:01:34,94742,,006241,P,,,,,2022-04-13 09:51:41,PEKUKUHAN,,1976-12-12,45 Tahun,4 Bulan,1 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1043691647.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,159 cm,56 kg,,130 mm,80 Hg,18 /menit,88 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,(01001) BPJS - Rawat jalan di Poliklinik Umum / KIA - KB/Gigi setiap kali kunjungan,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Antasida DOEN I tablet kunyah, kombinasi :Aluminium Hidroksida 200 mg + Magnesium Hidroksida 200 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 50 menit,0 hari 0 jam 0 menit,0 hari 1 jam 6 menit,puskesmas.modopuro
+1148,2022-04-13 09:21:37,138764,,009258,L,,,,,2022-04-13 09:41:11,MEJOYO,,1954-10-17,67 Tahun,5 Bulan,27 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,2624943172.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Ada Luka Di Kaki,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,110 mm,60 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,Burns classified according to extent of body surface involved (T31),LAMA,,,,,,,(01001) BPJS - Rawat jalan di Poliklinik Umum / KIA - KB/Gigi setiap kali kunjungan,"- Amoksisilin kaplet 500 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 19 menit,0 hari 0 jam 1 menit,0 hari 1 jam 8 menit,puskesmas.modopuro
+1149,2022-04-14 09:54:24,355639,,011761,P,,,,,2022-04-14 10:02:06,NGIMBANGAN,,1975-11-16,46 Tahun,4 Bulan,29 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1535341882.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,Other hyperlipidaemia (E78.4),BARU,Essential (primary) hypertension (I10),BARU,,,,,,,,Pendaftaran,0 hari 0 jam 7 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1150,2022-04-14 10:31:37,629351,,ENDANG,L,,,,,2022-04-14 11:32:58,MODOPURO,,1961-08-07,60 Tahun,8 Bulan,7 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,100132503.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Pusing,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,120 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,Other headache syndromes (G44),BARU,,,,,,,(01001) BPJS - Rawat jalan di Poliklinik Umum / KIA - KB/Gigi setiap kali kunjungan,"- Dimenhdrinat tablet 50 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Piridoksin (Vitamin B6) tablet 10 mg (HCL)
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 1 jam 1 menit,0 hari 0 jam 1 menit,1 hari 20 jam 3 menit,puskesmas.modopuro
+1151,2022-04-18 09:40:50,128784,,12224,P,KEBONDALEM,25.0,6.0,WIRASWASTA,2022-04-18 10:01:46,KEBONDALEM,MOJOKERTO,1968-06-22,53 Tahun,9 Bulan,27 Hari,,,LAMA,POLI UMUM,Gratis,2433842289.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kaki Bengkak,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,57 kg,,139 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,(P0001) PERDA - pemeriksaan kesehatan umum(Dokter/Drg),"- Natrium Diklofenak tab 50 mg
+  Signa : 3x1
+  Jumlah : 6
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 3x1
+  Jumlah : 6
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 20 menit,0 hari 0 jam 0 menit,0 hari 1 jam 9 menit,puskesmas.modopuro
+1152,2022-04-18 09:54:13,132960,,009160,P,,,,,2022-04-18 10:05:42,MODOPURO,,1968-02-02,54 Tahun,2 Bulan,16 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,98615946.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,"Pusing,gemetar",,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,143 mm,100 Hg,18 /menit,80 /menit,REGULAR,,,Essential (primary) hypertension (I10),LAMA,Non-insulin-dependent diabetes mellitus without complications (E11.9),LAMA,,,,,,,(01001) BPJS - Rawat jalan di Poliklinik Umum / KIA - KB/Gigi setiap kali kunjungan,"- Dimenhdrinat tablet 50 mg
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 3x1
+  Jumlah : 10
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 11 menit,0 hari 0 jam 3 menit,0 hari 1 jam 43 menit,puskesmas.modopuro
+1153,2022-04-18 09:57:24,110354,,006956,P,,,,,2022-04-18 10:38:32,NGIMBANGAN,,1982-06-01,39 Tahun,10 Bulan,17 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,725689552.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,"Bangun Tidur Kepala Muter, Gatal-gatal,",,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,159 cm,56 kg,,121 mm,85 Hg,19 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,Other headache syndromes (G44),BARU,,,,,,,,"- Glimepirid tab 2 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Metformin HCl tablet 500 mg
+  Signa : 1x1
+  Jumlah : 30
+  Racikan : R1
+
+- Loratadin tab 10 mg
+  Signa : 1x1
+  Jumlah : 6
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1x1
+  Jumlah : 20
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 41 menit,0 hari 0 jam 0 menit,0 hari 1 jam 18 menit,puskesmas.modopuro
+1154,2022-04-18 22:40:01,400500,,,P,,,,,2022-04-18 10:21:09,NGIMBANGAN,,1970-09-01,51 Tahun,7 Bulan,17 Hari,,,LAMA,PONKESDES NGIMBANGAN,BPJS Kesehatan,724967943.0,DR. NAILUL MAGHFIROH,,SERING BAK. BADAN LEMES,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,150 cm,50 kg,,110 mm,60 Hg,18 /menit,80 /menit,REGULAR,,,Insulin-dependent diabetes mellitus (E10),BARU,,,,,,,,,,,,Pendaftaran,0 hari 12 jam 18 menit,0 hari 0 jam 2 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1155,2022-04-18 22:45:58,13450,P351608018002448,005012,P,,,,BELUM/TIDAK BEKERJA,2022-04-18 10:32:27,NGIMBANGAN,MOJOKERTO,1963-09-01,58 Tahun,7 Bulan,17 Hari,,,LAMA,PONKESDES NGIMBANGAN,BPJS Kesehatan,725607371.0,DR. NAILUL MAGHFIROH,,SERING BAK .MUDAH LELAH,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,150 cm,47 kg,,110 mm,60 Hg,18 /menit,80 /menit,REGULAR,,,Insulin-dependent diabetes mellitus (E10),BARU,,,,,,,,,,,,Pendaftaran,0 hari 12 jam 13 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1156,2022-04-19 09:09:10,15261,P351608018102025,004826,L,,,,BELUM/TIDAK BEKERJA,2022-04-19 09:34:31,MODOPURO,MOJOKERTO,1954-02-07,68 Tahun,2 Bulan,12 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,98523639.0,DR. NAILUL MAGHFIROH,RUKIYAH,Tangan Kram,,3 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,160 cm,55 kg,,90 mm,70 Hg,20 /menit,84 /menit,REGULAR,36 C,,Non-insulin-dependent diabetes mellitus without complications (E11.9),BARU,,,,,,,,,(01001) BPJS - Rawat jalan di Poliklinik Umum / KIA - KB/Gigi setiap kali kunjungan,"- Glimepirid tab 2 mg
+  Signa : 1-0-0
+  Jumlah : 30
+  Racikan : R1
+
+- Tiamin (vitamin B1) tablet 50 mg (HCL/Nitrat)
+  Signa : 1-0-0
+  Jumlah : 30
+  Racikan : R1
+
+",Siti Asia,Pendaftaran,0 hari 0 jam 25 menit,0 hari 0 jam 1 menit,0 hari 0 jam 44 menit,puskesmas.modopuro
+1157,2022-04-19 09:48:49,400808,,011084,L,,,,,2022-04-19 09:58:18,GEBANG MALANG,,1961-02-01,61 Tahun,2 Bulan,18 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,98667437.0,DR. NAILUL MAGHFIROH,"Yoyon Dayanto, S.Kep.Ns",Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,150 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,"Secondary hypertension, unspecified (I15.9)",LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 9 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1158,2022-04-19 10:57:28,12476,P351608018000590,000242,P,,,,MENGURUS RUMAH TANGGA,2022-04-19 11:48:00,NGIMBANGAN,MOJOKERTO,1971-02-09,51 Tahun,2 Bulan,10 Hari,,,LAMA,PONKESDES NGIMBANGAN,BPJS Kesehatan,725327043.0,DR. NAILUL MAGHFIROH,,SERING BAK. CEPAT LELAH,,1 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,150 cm,48 kg,,110 mm,60 Hg,18 /menit,80 /menit,REGULAR,,,Insulin-dependent diabetes mellitus (E10),BARU,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 50 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1159,2022-04-20 08:32:25,629351,,ENDANG,L,,,,,2022-04-20 08:35:17,MODOPURO,,1961-08-07,60 Tahun,8 Bulan,13 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,100132503.0,DR. NAILUL MAGHFIROH,,Pusing,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),BARU,Other headache syndromes (G44),BARU,,,,,,,,,,Pendaftaran,0 hari 0 jam 2 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1160,2022-04-20 08:34:27,107285,,10098,L,,,,,2022-04-20 08:42:28,MODOPURO,,1958-05-13,63 Tahun,11 Bulan,7 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,98503637.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 8 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1161,2022-04-20 09:06:58,13203,P351608018002120,000728,P,,,,BELUM/TIDAK BEKERJA,2022-04-20 09:20:12,MODOPURO,MOJOKERTO,1967-10-05,54 Tahun,6 Bulan,15 Hari,,,LAMA,POLI UMUM,BPJS Kesehatan,1850075188.0,DR. NAILUL MAGHFIROH,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,0 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,18 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,,,,,,,,,,,,Pendaftaran,0 hari 0 jam 13 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
+1162,2022-04-20 10:48:31,13168,P351608018002065,001267,P,,,,BELUM/TIDAK BEKERJA,2022-04-20 10:55:43,KEDUNGGEMPOL,MOJOKERTO,1959-04-10,63 Tahun,0 Bulan,10 Hari,,,LAMA,POLI LANSIA,BPJS Kesehatan,98687564.0,dr. PRAHARA WAHYU PURNOMO,NINIS WAHYUNI. S.Kep.Ns,Kontrol,,2 Hari,Tidak,Tidak,Tidak,,,,,,"Obat : null,null,null,null,null,  ",COMPOS MENTIS,TIDAK GAWAT DARURAT,158 cm,56 kg,,130 mm,80 Hg,19 /menit,80 /menit,REGULAR,,,Non-insulin-dependent diabetes mellitus with unspecified complications (E11.8),LAMA,Secondary hypertension (I15),LAMA,,,,,,,,,,Pendaftaran,0 hari 0 jam 7 menit,0 hari 0 jam 0 menit,0 hari 0 jam 0 menit,puskesmas.modopuro
